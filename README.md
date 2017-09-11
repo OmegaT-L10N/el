@@ -1,2 +1,1 @@
-# el
-Greek OmegaT Localisation
+# Greek OmegaT Localisation
