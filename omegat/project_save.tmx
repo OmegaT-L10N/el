@@ -60,6 +60,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122011Z" creationid="epsou" creationdate="20250321T122011Z">
+        <seg>--mode=[console mode name]
+	  Ορίστε τρόπο λειτουργίας διαφορετικό από τον προεπιλεγμένο (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
@@ -78,6 +88,16 @@
         <seg>--remote-project
 	  Κατέβασμα αρχείου omegat.project από το URL που δόθηκε ως
 	  &lt;project path&gt; και φόρτωση του έργου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T121905Z" creationid="epsou" creationdate="20250321T121905Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	  Αρχείο .properties της Java για χρήση στο κείμενο της διεπαφής.</seg>
       </tuv>
     </tu>
     <tu>
