@@ -70,6 +70,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122406Z" creationid="epsou" creationdate="20250321T122406Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    Φάκελος που περιέχει τα μεταφρασμένα αρχεία.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
@@ -78,6 +90,18 @@
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    Το εξαγόμενο αρχείο TMX της ψευδομετάφρασης.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122419Z" creationid="epsou" creationdate="20250321T122419Z">
+        <seg>--mode=console-stats
+	  project_path
+	    Η διαδρομή προς το έργο.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,6 +128,28 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122530Z" creationid="epsou" creationdate="20250321T122530Z">
+        <seg>--output-file=[stats-output-file]
+	    Τυπώνει προς το καθορισμένο αρχείο ή την τυπική έξοδο
+	    αν δεν δοθεί αρχείο ή αν δεν χρησιμοποιηθεί η εφαρμογή.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122352Z" creationid="epsou" creationdate="20250321T122352Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Τι να περιληφθεί στο TMX της ψευδομετάφρασης.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
@@ -122,6 +168,16 @@
       <tuv lang="el" changeid="epsou" changedate="20250321T121905Z" creationid="epsou" creationdate="20250321T121905Z">
         <seg>--resource-bundle=&lt;path&gt;
 	  Αρχείο .properties της Java για χρήση στο κείμενο της διεπαφής.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122602Z" creationid="epsou" creationdate="20250321T122602Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Καθορίζει τη μορφή του εξαγομένου.</seg>
       </tuv>
     </tu>
     <tu>
