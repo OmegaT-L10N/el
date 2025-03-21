@@ -70,6 +70,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122330Z" creationid="epsou" creationdate="20250321T122330Z">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    Το εξαγόμενο αρχείο TMX της ψευδομετάφρασης.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122219Z" creationid="epsou" creationdate="20250321T122219Z">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    Regex λίστας αρχείων αφετηρίας προς επεξεργασία.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
@@ -108,6 +132,14 @@
       <tuv lang="el" changeid="epsou" changedate="20250321T120552Z" creationid="epsou" creationdate="20250321T120552Z">
         <seg>-h, --help
 	  Εμφάνιση αυτού του μηνύματος βοήθειας.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122129Z" creationid="epsou" creationdate="20250321T122129Z">
+        <seg>Ονόματα και επιλογές τρόπων λειτουργίας με κονσόλα:</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +206,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T121408Z" creationid="epsou" creationdate="20250321T121408Z">
         <seg>Δείτε στο OmegaT.jar/META-INF/MANIFEST.MF τις έγκυρες τιμές.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122019Z" creationid="epsou" creationdate="20250321T122019Z">
+        <seg>Δείτε λεπτομέρειες παρακάτω.</seg>
       </tuv>
     </tu>
     <tu>
