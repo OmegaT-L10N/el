@@ -175,9 +175,9 @@
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifies the output format.</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250321T122602Z" creationid="epsou" creationdate="20250321T122602Z">
+      <tuv lang="el" changeid="epsou" changedate="20250321T122618Z" creationid="epsou" creationdate="20250321T122602Z">
         <seg>--stats-type=[xml|text|txt|json]
-	    Καθορίζει τη μορφή του εξαγομένου.</seg>
+	    Καθορίζει τη μορφή της εξόδου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196,6 +196,16 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T122129Z" creationid="epsou" creationdate="20250321T122129Z">
         <seg>Ονόματα και επιλογές τρόπων λειτουργίας με κονσόλα:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T122705Z" creationid="epsou" creationdate="20250321T122609Z">
+        <seg>Αν δεν καθοριστεί --stats-type, η μορφή
+	    εντοπίζεται από την επέκταση του αρχείου.</seg>
       </tuv>
     </tu>
     <tu>
