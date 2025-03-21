@@ -6,6 +6,38 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T120750Z" creationid="epsou" creationdate="20250321T120750Z">
+        <seg>--no-team
+	  Απενεργοποίηση της δυνατότητας ομαδικών έργων.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T120718Z" creationid="epsou" creationdate="20250321T120643Z">
+        <seg>--remote-project
+	  Κατέβασμα αρχείου omegat.project από το URL που δόθηκε ως
+	  &lt;project path&gt; και φόρτωση του έργου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T120552Z" creationid="epsou" creationdate="20250321T120552Z">
+        <seg>-h, --help
+	  Εμφάνιση αυτού του μηνύματος βοήθειας.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T115011Z" creationid="epsou" creationdate="20250321T113947Z">
@@ -26,6 +58,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113937Z" creationid="epsou" creationdate="20250321T113937Z">
         <seg>Επιλογές του OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T120524Z" creationid="epsou" creationdate="20250321T120524Z">
+        <seg>Μόνο διαδρομή έργου: Εκκίνηση GUI και φόρτωση καθορισμένου έργου.</seg>
       </tuv>
     </tu>
     <tu>
