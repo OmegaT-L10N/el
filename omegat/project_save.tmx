@@ -20,6 +20,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T121836Z" creationid="epsou" creationdate="20250321T121836Z">
+        <seg>--config-dir=&lt;path&gt;
+	  Ο φάκελος για ανάγνωση ή εγγραφή αρχείων διαμόρφωσης του OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T121619Z" creationid="epsou" creationdate="20250321T121409Z">
+        <seg>--config-file=&lt;path&gt;
+	  Αρχείο .properties της Java από το οποίο θα φορτωθούν οι προεπιλεγμένες ρυθμίσεις.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-location-save
 	  Do not remember the last folder opened in the file picker.</seg>
       </tuv>
@@ -126,6 +146,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113920Z" creationid="epsou" creationdate="20250321T113920Z">
         <seg>Για λεπτομέρειες, όπως διαθέσιμες επιλογές Java: Βοήθεια &gt; Εγχειρίδιο χρήσης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T121408Z" creationid="epsou" creationdate="20250321T121408Z">
+        <seg>Δείτε στο OmegaT.jar/META-INF/MANIFEST.MF τις έγκυρες τιμές.</seg>
       </tuv>
     </tu>
     <tu>
