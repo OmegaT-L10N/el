@@ -38,6 +38,24 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T121046Z" creationid="epsou" creationdate="20250321T121046Z">
+        <seg>Αν γίνει σε git working tree ή svn checkout, τα αποτελέσματα
+	  θα έχουν κατάσταση staged/added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T120912Z" creationid="epsou" creationdate="20250321T120912Z">
+        <seg>Αρχικοποίηση ενός ελάχιστου ομαδικού έργου με τις καθορισμένες γλώσσες.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T115011Z" creationid="epsou" creationdate="20250321T113947Z">
@@ -82,6 +100,16 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113754Z" creationid="epsou" creationdate="20250321T113754Z">
         <seg>Χρήση: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T120836Z" creationid="epsou" creationdate="20250321T120836Z">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Εργαλείο ομαδικού έργου.</seg>
       </tuv>
     </tu>
     <tu>
