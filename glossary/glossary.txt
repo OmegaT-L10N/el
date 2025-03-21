@@ -3,3 +3,4 @@ User Manual	Εγχειρίδιο χρήσης
 OmegaT	OmegaT
 project	έργο
 GUI	GUI
+team project	ομαδικό έργο
