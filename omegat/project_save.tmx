@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113947Z" creationid="epsou" creationdate="20250321T113947Z">
+        <seg>Καμία </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113709Z" creationid="epsou" creationdate="20250321T113709Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113937Z" creationid="epsou" creationdate="20250321T113937Z">
+        <seg>Επιλογές του OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113920Z" creationid="epsou" creationdate="20250321T113920Z">
+        <seg>Για λεπτομέρειες, όπως διαθέσιμες επιλογές Java: Βοήθεια &gt; Εγχειρίδιο χρήσης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113754Z" creationid="epsou" creationdate="20250321T113754Z">
+        <seg>Χρήση: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113715Z" creationid="epsou" creationdate="20250321T113715Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113717Z" creationid="epsou" creationdate="20250321T113717Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113714Z" creationid="epsou" creationdate="20250321T113714Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113713Z" creationid="epsou" creationdate="20250321T113713Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T113711Z" creationid="epsou" creationdate="20250321T113711Z">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
