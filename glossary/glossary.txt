@@ -1,3 +1,5 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 User Manual	Εγχειρίδιο χρήσης
 OmegaT	OmegaT
+project	έργο
+GUI	GUI
