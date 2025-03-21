@@ -4,3 +4,5 @@ OmegaT	OmegaT
 project	έργο
 GUI	GUI
 team project	ομαδικό έργο
+TMX	TMX
+pseudotranslation	ψευδομετάφραση
