@@ -6,6 +6,40 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T121350Z" creationid="epsou" creationdate="20250321T121259Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Tokenizer προς χρήση για τη γλώσσα αφετηρίας ή αφίξεως
+	  (υπερισχύει των ρυθμίσεων έργου).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T121221Z" creationid="epsou" creationdate="20250321T121106Z">
+        <seg>--disable-location-save
+	  Να μην απομνημονευτεί ο τελευταίος φάκελος που επιλέχτηκε να ανοίξει.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250321T121105Z" creationid="epsou" creationdate="20250321T121105Z">
+        <seg>--disable-project-locking
+	  Να μην επιχειρηθεί κλείδωμα του αρχείου omegat.project file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
