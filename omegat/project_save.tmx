@@ -150,6 +150,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160953Z" creationid="epsou" creationdate="20250406T160953Z">
+        <seg>- επαληθεύστε αν η μορφή τους υποστηρίζεται από το OmegaT:
+	  αν έχουν ενεργοποιηθεί τοπικές ρυθμίσεις φίλτρου
+	  πατήστε Έργο &gt; Ιδιότητες... &gt; Τοπικά φίλτρα αρχείου...,
+	  αλλιώς Επιλογές &gt; Καθολικά φίλτρα αρχείου...,
+	- ανοίξτε τα στην εφαρμογή προέλευσης και επαληθεύστε ότι δεν είναι άδεια.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 	  Source- or target-language tokenizer to use (overrides project
@@ -470,6 +486,14 @@
       <tuv lang="el" changeid="epsou" changedate="20250321T121046Z" creationid="epsou" creationdate="20250321T121046Z">
         <seg>Αν γίνει σε git working tree ή svn checkout, τα αποτελέσματα
 	  θα έχουν κατάσταση staged/added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160552Z" creationid="epsou" creationdate="20250406T160552Z">
+        <seg>Αν το έργο περιέχει αρχεία αλλά δεν εμφανίζεται εδώ το περιεχόμενό τους:</seg>
       </tuv>
     </tu>
     <tu>
