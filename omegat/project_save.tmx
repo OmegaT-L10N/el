@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160137Z" creationid="epsou" creationdate="20250406T160137Z">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155430Z" creationid="epsou" creationdate="20250406T155430Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154315Z" creationid="epsou" creationdate="20250406T154315Z">
         <seg>Επιλογές μόνο στην κονσόλα:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160133Z" creationid="epsou" creationdate="20250406T160133Z">
+        <seg>Τωρινή χρήση μνήμης από τη VM: {0} MB, από τα οποία ελεύθερη μνήμη: {1} MB, μέγιστη διαθέσιμη: {2} MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +554,30 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155503Z" creationid="epsou" creationdate="20250406T155503Z">
         <seg>Επαναφορά προεπι&amp;λογών</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155957Z" creationid="epsou" creationdate="20250406T155957Z">
+        <seg>Εκτελέσω το OmegaT» στο εγχειρίδιο χρήσης.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160020Z" creationid="epsou" creationdate="20250406T160020Z">
+        <seg>Εκτελείται σε Java {0} ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155931Z" creationid="epsou" creationdate="20250406T155931Z">
+        <seg>Βλ. «Πώς να…</seg>
       </tuv>
     </tu>
     <tu>
