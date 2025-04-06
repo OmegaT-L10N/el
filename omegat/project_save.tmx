@@ -150,6 +150,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154342Z" creationid="epsou" creationdate="20250406T154342Z">
+        <seg>--quiet
+	  Μειώνει την έξοδο στο stdout της γραμμής εντολών.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
@@ -172,12 +182,32 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154408Z" creationid="epsou" creationdate="20250406T154408Z">
+        <seg>--script=&lt;path&gt;
+	  Αρχείο δέσμης προς εκτέλεση σε συμβάντα έργου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifies the output format.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T122618Z" creationid="epsou" creationdate="20250321T122602Z">
         <seg>--stats-type=[xml|text|txt|json]
 	    Καθορίζει τη μορφή της εξόδου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154522Z" creationid="epsou" creationdate="20250406T154522Z">
+        <seg>--tag-validation=[abort|warn]
+	  Επικύρωση ετικετών.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196,6 +226,22 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T122129Z" creationid="epsou" creationdate="20250321T122129Z">
         <seg>Ονόματα και επιλογές τρόπων λειτουργίας με κονσόλα:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154315Z" creationid="epsou" creationdate="20250406T154315Z">
+        <seg>Επιλογές μόνο στην κονσόλα:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154306Z" creationid="epsou" creationdate="20250406T154306Z">
+        <seg>Η προεπιλογή είναι xml.</seg>
       </tuv>
     </tu>
     <tu>
