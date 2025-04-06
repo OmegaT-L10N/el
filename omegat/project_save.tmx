@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162704Z" creationid="epsou" creationdate="20250406T162704Z">
+        <seg>&amp;Περιτροπή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161734Z" creationid="epsou" creationdate="20250406T161734Z">
@@ -296,8 +304,8 @@
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T162533Z" creationid="epsou" creationdate="20250406T162533Z">
-        <seg>&amp;Αρκτικά Κεφαλαία</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162628Z" creationid="epsou" creationdate="20250406T162533Z">
+        <seg>&amp;Κάθε Αρκτικό Κεφαλαίο</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +858,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162915Z" creationid="epsou" creationdate="20250406T162915Z">
+        <seg>Εισαγωγή χαρακτήρα ελέγχου Bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing &amp;Tags</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162304Z" creationid="epsou" creationdate="20250406T162304Z">
@@ -1106,6 +1122,70 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155249Z" creationid="epsou" creationdate="20250406T155249Z">
         <seg>Επιλογή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162724Z" creationid="epsou" creationdate="20250406T162724Z">
+        <seg>Επιλογή επόμεν&amp;ης αντιστοιχίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162734Z" creationid="epsou" creationdate="20250406T162734Z">
+        <seg>Επιλογή &amp;προηγούμενης αντιστοιχίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162715Z" creationid="epsou" creationdate="20250406T162715Z">
+        <seg>Επιλογή αντι&amp;στοιχίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162754Z" creationid="epsou" creationdate="20250406T162754Z">
+        <seg>Επιλογή &amp;1ης αντιστοιχίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162758Z" creationid="epsou" creationdate="20250406T162758Z">
+        <seg>Επιλογή &amp;2ης αντιστοιχίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162801Z" creationid="epsou" creationdate="20250406T162801Z">
+        <seg>Επιλογή &amp;3ης αντιστοιχίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162804Z" creationid="epsou" creationdate="20250406T162804Z">
+        <seg>Επιλογή &amp;4ης αντιστοιχίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162807Z" creationid="epsou" creationdate="20250406T162807Z">
+        <seg>Επιλογή &amp;5ης αντιστοιχίας</seg>
       </tuv>
     </tu>
     <tu>
