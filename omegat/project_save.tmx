@@ -254,6 +254,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162444Z" creationid="epsou" creationdate="20250406T162444Z">
+        <seg>Ανα&amp;ζήτηση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162620Z" creationid="epsou" creationdate="20250406T162620Z">
+        <seg>&amp;Πρώτο αρκτικό κεφαλαίο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show Replacements</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155228Z" creationid="epsou" creationdate="20250406T155228Z">
@@ -278,6 +294,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162533Z" creationid="epsou" creationdate="20250406T162533Z">
+        <seg>&amp;Αρκτικά Κεφαλαία</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162512Z" creationid="epsou" creationdate="20250406T162512Z">
+        <seg>&amp;ΚΕΦΑΛΑΙΟΓΡΑΜΜΑΤΗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162037Z" creationid="epsou" creationdate="20250406T161957Z">
@@ -290,6 +322,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161921Z" creationid="epsou" creationdate="20250406T161921Z">
         <seg>&amp;Εγγράψιμο γλωσσάρι</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162507Z" creationid="epsou" creationdate="20250406T162507Z">
+        <seg>&amp;μικρογράμματη</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162436Z" creationid="epsou" creationdate="20250406T162436Z">
+        <seg>Δημιουργία εγγραφής στο &amp;γλωσσάρι...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161558Z" creationid="epsou" creationdate="20250406T161558Z">
@@ -806,6 +854,22 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162304Z" creationid="epsou" creationdate="20250406T162304Z">
         <seg>Εισαγωγή ε&amp;τικετών που λείπουν</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162404Z" creationid="epsou" creationdate="20250406T162404Z">
+        <seg>Εισαγωγή επόμενης ετι&amp;κέτας που λείπει</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162409Z" creationid="epsou" creationdate="20250406T162409Z">
+        <seg>Εισαγωγή ετικέτας {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +1014,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162447Z" creationid="epsou" creationdate="20250406T162447Z">
+        <seg>Αντικατάσταση...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155503Z" creationid="epsou" creationdate="20250406T155503Z">
@@ -974,10 +1046,26 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162503Z" creationid="epsou" creationdate="20250406T162503Z">
+        <seg>Ενα&amp;λλαγή γραφής σε</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;lect Source Text</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162225Z" creationid="epsou" creationdate="20250406T162225Z">
         <seg>Ε&amp;πιλογή κειμένου αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162450Z" creationid="epsou" creationdate="20250406T162450Z">
+        <seg>Αναζήτηση στα λεξικά</seg>
       </tuv>
     </tu>
     <tu>
