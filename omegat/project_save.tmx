@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T155421Z" creationid="epsou" creationdate="20250406T155421Z">
-        <seg>&amp;Προσθήκη…</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161123Z" creationid="epsou" creationdate="20250406T155421Z">
+        <seg>&amp;Προσθήκη...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155207Z" creationid="epsou" creationdate="20250406T155054Z">
         <seg>Άκ&amp;υρο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161219Z" creationid="epsou" creationdate="20250406T161219Z">
+        <seg>&amp;Εκκαθάριση μενού</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +48,8 @@
       <tuv lang="en">
         <seg>&amp;Edit...</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T155435Z" creationid="epsou" creationdate="20250406T155435Z">
-        <seg>&amp;Επεξεργασία…</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161123Z" creationid="epsou" creationdate="20250406T155435Z">
+        <seg>&amp;Επεξεργασία...</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161144Z" creationid="epsou" creationdate="20250406T161144Z">
+        <seg>Ά&amp;νοιγμα...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161037Z" creationid="epsou" creationdate="20250406T161037Z">
@@ -128,8 +144,8 @@
       <tuv lang="en">
         <seg>&amp;Save As...</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T155519Z" creationid="epsou" creationdate="20250406T155519Z">
-        <seg>&amp;Αποθήκευση ως…</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161123Z" creationid="epsou" creationdate="20250406T155519Z">
+        <seg>&amp;Αποθήκευση ως...</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +454,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161227Z" creationid="epsou" creationdate="20250406T161227Z">
+        <seg>Προσ&amp;θήκη αρχείων...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161239Z" creationid="epsou" creationdate="20250406T161239Z">
+        <seg>Προσθήκη αρχείων στον φάκελο αφετηρίας...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161252Z" creationid="epsou" creationdate="20250406T161252Z">
+        <seg>Προσθήκη σε&amp;λίδας MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161257Z" creationid="epsou" creationdate="20250406T161257Z">
+        <seg>Προσθήκη σελίδας MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161355Z" creationid="epsou" creationdate="20250406T161355Z">
+        <seg>Κατα&amp;χώρηση αρχείων αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155524Z" creationid="epsou" creationdate="20250406T155524Z">
@@ -486,10 +542,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161140Z" creationid="epsou" creationdate="20250406T161140Z">
+        <seg>&amp;Κατέβασμα ομαδικού έργου...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155521Z" creationid="epsou" creationdate="20250406T155521Z">
         <seg>Σφάλμα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161340Z" creationid="epsou" creationdate="20250406T161340Z">
+        <seg>Τα αρχεία δεν αντιγράφηκαν</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161325Z" creationid="epsou" creationdate="20250406T161325Z">
+        <seg>Η σελίδα δεν κατέβηκε</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +658,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161158Z" creationid="epsou" creationdate="20250406T161158Z">
+        <seg>Άν&amp;οιγμα πρόσφατου...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplementary
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -610,6 +698,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155417Z" creationid="epsou" creationdate="20250406T155417Z">
         <seg>Α&amp;φαίρεση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161345Z" creationid="epsou" creationdate="20250406T161345Z">
+        <seg>Ανα&amp;φόρτωση</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +744,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>See "How To...</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T155931Z" creationid="epsou" creationdate="20250406T155931Z">
-        <seg>Βλ. «Πώς να…</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161123Z" creationid="epsou" creationdate="20250406T155931Z">
+        <seg>Βλ. «Πώς να...</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +794,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160158Z" creationid="epsou" creationdate="20250406T160158Z">
         <seg>Για να προσθέσετε αρχεία στο έργο, μπορείτε:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161259Z" creationid="epsou" creationdate="20250406T161259Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
