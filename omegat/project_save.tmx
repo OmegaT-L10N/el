@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161720Z" creationid="epsou" creationdate="20250406T161720Z">
+        <seg>&amp;Εμφάνιση περιεχομένων έργου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155426Z" creationid="epsou" creationdate="20250406T155426Z">
@@ -46,10 +54,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161838Z" creationid="epsou" creationdate="20250406T161838Z">
+        <seg>&amp;Τρέχον αρχείο αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161734Z" creationid="epsou" creationdate="20250406T161734Z">
+        <seg>&amp;Λεξικά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161954Z" creationid="epsou" creationdate="20250406T161945Z">
+        <seg>&amp;Επεξεργασία</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Edit...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161123Z" creationid="epsou" creationdate="20250406T155435Z">
         <seg>&amp;Επεξεργασία...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161832Z" creationid="epsou" creationdate="20250406T161832Z">
+        <seg>&amp;Εξηγμένες ΜΜ</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +114,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155401Z" creationid="epsou" creationdate="20250406T155401Z">
         <seg>&amp;Τέλος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161737Z" creationid="epsou" creationdate="20250406T161737Z">
+        <seg>&amp;Γλωσσάρια</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161929Z" creationid="epsou" creationdate="20250406T161929Z">
+        <seg>Έ&amp;ξοδος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155409Z" creationid="epsou" creationdate="20250406T155409Z">
@@ -146,6 +202,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155352Z" creationid="epsou" creationdate="20250406T155352Z">
         <seg>&amp;Αντικατάσταση και εύρεση επόμενου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161950Z" creationid="epsou" creationdate="20250406T161942Z">
+        <seg>Επανε&amp;κκίνηση</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +242,30 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155228Z" creationid="epsou" creationdate="20250406T155228Z">
         <seg>&amp;Εμφάνιση αντικαταστάσεων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161750Z" creationid="epsou" creationdate="20250406T161743Z">
+        <seg>Αρχεία προέ&amp;λευσης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161755Z" creationid="epsou" creationdate="20250406T161755Z">
+        <seg>Αρχεία προο&amp;ρισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161921Z" creationid="epsou" creationdate="20250406T161921Z">
+        <seg>&amp;Εγγράψιμο γλωσσάρι</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161915Z" creationid="epsou" creationdate="20250406T161846Z">
+        <seg>Τ&amp;ρέχον αρχείο προορισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161355Z" creationid="epsou" creationdate="20250406T161355Z">
@@ -560,8 +656,8 @@
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T161629Z" creationid="epsou" creationdate="20250406T161629Z">
-        <seg>Δημιουργία τωρινού με&amp;ταφρασμένου αρχείου</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161905Z" creationid="epsou" creationdate="20250406T161629Z">
+        <seg>Δημιουργία τρέχοντος με&amp;ταφρασμένου αρχείου</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +818,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161732Z" creationid="epsou" creationdate="20250406T161732Z">
+        <seg>&amp;Φάκελος έργου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplementary
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -846,6 +950,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161825Z" creationid="epsou" creationdate="20250406T161825Z">
+        <seg>&amp;ΜΜ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project is empty</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160957Z" creationid="epsou" creationdate="20250406T160957Z">
@@ -892,10 +1004,10 @@ everything.</seg>
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T155810Z" creationid="epsou" creationdate="20250406T155810Z">
+      <tuv lang="el" changeid="epsou" changedate="20250406T161900Z" creationid="epsou" creationdate="20250406T155810Z">
         <seg>Γράψτε «java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar»
 στη γραμμή εντολών ή στη δέσμη έναρξης του OmegaT.
-Η τωρινή τιμή είναι {0} MB;</seg>
+Η τρέχουσα τιμή είναι {0} MB;</seg>
       </tuv>
     </tu>
     <tu>
