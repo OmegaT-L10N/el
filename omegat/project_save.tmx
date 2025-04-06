@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155426Z" creationid="epsou" creationdate="20250406T155426Z">
+        <seg>&amp;Προσθήκη</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155421Z" creationid="epsou" creationdate="20250406T155421Z">
+        <seg>&amp;Προσθήκη…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155207Z" creationid="epsou" creationdate="20250406T155054Z">
@@ -18,6 +34,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155211Z" creationid="epsou" creationdate="20250406T155211Z">
         <seg>&amp;Κλείσιμο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155435Z" creationid="epsou" creationdate="20250406T155435Z">
+        <seg>&amp;Επεξεργασία…</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155401Z" creationid="epsou" creationdate="20250406T155401Z">
+        <seg>&amp;Τέλος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155513Z" creationid="epsou" creationdate="20250406T155513Z">
+        <seg>Ει&amp;σαγωγή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155037Z" creationid="epsou" creationdate="20250406T155037Z">
@@ -46,10 +86,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155409Z" creationid="epsou" creationdate="20250406T155409Z">
+        <seg>&amp;Αφαίρεση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155407Z" creationid="epsou" creationdate="20250406T155407Z">
+        <seg>&amp;Αφαίρεση φίλτρου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace and Find Next</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155352Z" creationid="epsou" creationdate="20250406T155352Z">
         <seg>&amp;Αντικατάσταση και εύρεση επόμενου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155519Z" creationid="epsou" creationdate="20250406T155519Z">
+        <seg>&amp;Αποθήκευση ως…</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,10 +350,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155641Z" creationid="epsou" creationdate="20250406T155641Z">
+        <seg>1) Μειώστε τον αριθμό των αρχείων στον πηγαίο φάκελο.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155430Z" creationid="epsou" creationdate="20250406T155430Z">
+        <seg>Π&amp;ροσθήκη</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags are invalid.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154544Z" creationid="epsou" creationdate="20250406T154544Z">
         <seg>Abort: Έξοδος με σφάλμα αν οι ετικέτες δεν είναι έγκυρες.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155524Z" creationid="epsou" creationdate="20250406T155524Z">
+        <seg>Επιβεβαίωση</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +402,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154306Z" creationid="epsou" creationdate="20250406T154306Z">
         <seg>Η προεπιλογή είναι xml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155521Z" creationid="epsou" creationdate="20250406T155521Z">
+        <seg>Σφάλμα</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +474,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155613Z" creationid="epsou" creationdate="20250406T155613Z">
+        <seg>Το OmegaT εξάντλησε τη μνήμη και θα κλείσει όταν πατήσετε «ΟΚ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplementary
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -390,6 +494,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155619Z" creationid="epsou" creationdate="20250406T155619Z">
+        <seg>Πιθανές λύσεις:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T120524Z" creationid="epsou" creationdate="20250321T120524Z">
@@ -398,10 +510,26 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155417Z" creationid="epsou" creationdate="20250406T155417Z">
+        <seg>Α&amp;φαίρεση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;place All</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155243Z" creationid="epsou" creationdate="20250406T155243Z">
         <seg>Αν&amp;τικατάσταση όλων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155503Z" creationid="epsou" creationdate="20250406T155503Z">
+        <seg>Επαναφορά προεπι&amp;λογών</seg>
       </tuv>
     </tu>
     <tu>
