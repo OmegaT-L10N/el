@@ -78,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161040Z" creationid="epsou" creationdate="20250406T161040Z">
+        <seg>&amp;Νέο...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155037Z" creationid="epsou" creationdate="20250406T155037Z">
         <seg>&amp;ΟΚ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161037Z" creationid="epsou" creationdate="20250406T161037Z">
+        <seg>Έ&amp;ργο</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161015Z" creationid="epsou" creationdate="20250406T161015Z">
+        <seg>Αντιγραφή σφάλματος στο πρόχειρο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160133Z" creationid="epsou" creationdate="20250406T160133Z">
@@ -526,6 +550,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113709Z" creationid="epsou" creationdate="20250321T113709Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161029Z" creationid="epsou" creationdate="20250406T161029Z">
+        <seg>Το OmegaT επέλεξε «Ναι» αυτόματα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,6 +686,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160957Z" creationid="epsou" creationdate="20250406T160957Z">
+        <seg>Το έργο είναι άδειο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160158Z" creationid="epsou" creationdate="20250406T160158Z">
@@ -696,6 +736,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154612Z" creationid="epsou" creationdate="20250406T154612Z">
         <seg>Warn: Παράθεση των άκυρων ετικετών στο stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161001Z" creationid="epsou" creationdate="20250406T161001Z">
+        <seg>Προειδοποίηση</seg>
       </tuv>
     </tu>
     <tu>
