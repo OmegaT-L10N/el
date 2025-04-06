@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155700Z" creationid="epsou" creationdate="20250406T155700Z">
+        <seg>2) Αυξήστε την ποσότητα της μνήμης που διατίθεται στο OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155430Z" creationid="epsou" creationdate="20250406T155430Z">
@@ -577,9 +585,21 @@ everything.</seg>
         <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
 	See --help.</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T154729Z" creationid="epsou" creationdate="20250406T154651Z">
+      <tuv lang="el" changeid="epsou" changedate="20250406T155828Z" creationid="epsou" creationdate="20250406T154651Z">
         <seg>Χρήση: team init &lt;source language&gt; &lt;target language&gt;
-	Βλέπε --help.</seg>
+	Βλ. --help.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155810Z" creationid="epsou" creationdate="20250406T155810Z">
+        <seg>Γράψτε «java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar»
+στη γραμμή εντολών ή στη δέσμη έναρξης του OmegaT.
+Η τωρινή τιμή είναι {0} MB;</seg>
       </tuv>
     </tu>
     <tu>
