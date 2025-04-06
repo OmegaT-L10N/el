@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160536Z" creationid="epsou" creationdate="20250406T160404Z">
+        <seg>- να αποθέσετε αρχεία σε αυτήν την περιοχή,
+	- να πατήσετε Έργο &gt; Προσθήκη αρχείων...,
+	- να πατήσετε Έργο &gt; Αρχεία αφετηρίας... και ύστερα Προσθήκη αρχείων...,
+	- να αντιγράψετε αρχεία στον φάκελο «source» μέσω του λειτουργικού συστήματος
+	  και μετά να πατήσετε Έργο &gt; Αναφόρτωση για να αναφορτωθεί το έργο.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 	  Source- or target-language tokenizer to use (overrides project
@@ -510,8 +526,8 @@
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T155028Z" creationid="epsou" creationdate="20250406T155017Z">
-        <seg>Βάλτε τα πηγαία αρχεία στο ./source, το συμπληρωματικό
+      <tuv lang="el" changeid="epsou" changedate="20250406T160411Z" creationid="epsou" creationdate="20250406T155017Z">
+        <seg>Βάλτε τα αρχεία αφετηρίας στο ./source, το συμπληρωματικό
 υλικό στα ./tm, ./glossary και ./dictionary, όπως απαιτείται,
 και καταχωρήστε τα πάντα.</seg>
       </tuv>
@@ -614,6 +630,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160158Z" creationid="epsou" creationdate="20250406T160158Z">
+        <seg>Για να προσθέσετε αρχεία στο έργο, μπορείτε:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113754Z" creationid="epsou" creationdate="20250321T113754Z">
@@ -648,6 +672,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154612Z" creationid="epsou" creationdate="20250406T154612Z">
         <seg>Warn: Παράθεση των άκυρων ετικετών στο stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T160148Z" creationid="epsou" creationdate="20250406T160148Z">
+        <seg>Το έργο δεν φαίνεται να περιέχει μεταφράσιμα αρχεία.</seg>
       </tuv>
     </tu>
     <tu>
