@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154544Z" creationid="epsou" creationdate="20250406T154544Z">
+        <seg>Abort: Έξοδος με σφάλμα αν οι ετικέτες δεν είναι έγκυρες.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console mode names and their options:</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T122129Z" creationid="epsou" creationdate="20250321T122129Z">
@@ -338,12 +346,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154729Z" creationid="epsou" creationdate="20250406T154651Z">
+        <seg>Χρήση: team init &lt;source language&gt; &lt;target language&gt;
+	Βλέπε --help.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154612Z" creationid="epsou" creationdate="20250406T154612Z">
+        <seg>Warn: Παράθεση των άκυρων ετικετών στο stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T120836Z" creationid="epsou" creationdate="20250321T120836Z">
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Εργαλείο ομαδικού έργου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154613Z" creationid="epsou" creationdate="20250406T154613Z">
+        <seg>{0}</seg>
       </tuv>
     </tu>
     <tu>
