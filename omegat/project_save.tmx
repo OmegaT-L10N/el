@@ -318,10 +318,10 @@
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T155017Z" creationid="epsou" creationdate="20250406T155017Z">
+      <tuv lang="el" changeid="epsou" changedate="20250406T155028Z" creationid="epsou" creationdate="20250406T155017Z">
         <seg>Βάλτε τα πηγαία αρχεία στο ./source, το συμπληρωματικό
 υλικό στα ./tm, ./glossary και ./dictionary, όπως απαιτείται,
-everything.</seg>
+και καταχωρήστε τα πάντα.</seg>
       </tuv>
     </tu>
     <tu>
