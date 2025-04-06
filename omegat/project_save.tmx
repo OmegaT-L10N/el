@@ -282,6 +282,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T154845Z" creationid="epsou" creationdate="20250406T154845Z">
+        <seg>Αρχικοποιήθηκε ομαδικό έργο {0}-{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T115011Z" creationid="epsou" creationdate="20250321T113947Z">
@@ -302,6 +310,18 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113937Z" creationid="epsou" creationdate="20250321T113937Z">
         <seg>Επιλογές του OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T155017Z" creationid="epsou" creationdate="20250406T155017Z">
+        <seg>Βάλτε τα πηγαία αρχεία στο ./source, το συμπληρωματικό
+υλικό στα ./tm, ./glossary και ./dictionary, όπως απαιτείται,
+everything.</seg>
       </tuv>
     </tu>
     <tu>
