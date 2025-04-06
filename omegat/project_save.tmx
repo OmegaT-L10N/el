@@ -860,8 +860,8 @@
       <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T162915Z" creationid="epsou" creationdate="20250406T162915Z">
-        <seg>Εισαγωγή χαρακτήρα ελέγχου Bidi</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162922Z" creationid="epsou" creationdate="20250406T162915Z">
+        <seg>Εισαγωγή &amp;χαρακτήρα ελέγχου Bidi</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +886,22 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162409Z" creationid="epsou" creationdate="20250406T162409Z">
         <seg>Εισαγωγή ετικέτας {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T163042Z" creationid="epsou" creationdate="20250406T163042Z">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T163041Z" creationid="epsou" creationdate="20250406T162940Z">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +982,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T163045Z" creationid="epsou" creationdate="20250406T163045Z">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Possible solutions:</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155619Z" creationid="epsou" creationdate="20250406T155619Z">
@@ -1042,6 +1066,22 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155503Z" creationid="epsou" creationdate="20250406T155503Z">
         <seg>Επαναφορά προεπι&amp;λογών</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T163044Z" creationid="epsou" creationdate="20250406T163044Z">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T163041Z" creationid="epsou" creationdate="20250406T163008Z">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
