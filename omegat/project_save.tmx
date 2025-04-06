@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162128Z" creationid="epsou" creationdate="20250406T162116Z">
+        <seg>&amp;Εισαγωγή αντιστοιχίας ή επιλογής</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161040Z" creationid="epsou" creationdate="20250406T161040Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161929Z" creationid="epsou" creationdate="20250406T161929Z">
         <seg>Έ&amp;ξοδος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162004Z" creationid="epsou" creationdate="20250406T162004Z">
+        <seg>Επανάλη&amp;ψη</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,6 +274,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161755Z" creationid="epsou" creationdate="20250406T161755Z">
         <seg>Αρχεία προο&amp;ρισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162037Z" creationid="epsou" creationdate="20250406T161957Z">
+        <seg>Α&amp;ναίρεση</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162232Z" creationid="epsou" creationdate="20250406T162230Z">
+        <seg>Ε&amp;ξαγωγή επιλογής</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155521Z" creationid="epsou" creationdate="20250406T155521Z">
@@ -714,6 +746,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161325Z" creationid="epsou" creationdate="20250406T161325Z">
         <seg>Η σελίδα δεν κατέβηκε</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162210Z" creationid="epsou" creationdate="20250406T162210Z">
+        <seg>Ει&amp;σαγωγή αφετηρίας</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +798,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154845Z" creationid="epsou" creationdate="20250406T154845Z">
         <seg>Αρχικοποιήθηκε ομαδικό έργο {0}-{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162304Z" creationid="epsou" creationdate="20250406T162304Z">
+        <seg>Εισαγωγή ε&amp;τικετών που λείπουν</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +910,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162120Z" creationid="epsou" creationdate="20250406T162056Z">
+        <seg>Αντικατάσταση με αντιστοιχία ή επιλογή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;load</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161345Z" creationid="epsou" creationdate="20250406T161345Z">
@@ -874,6 +930,22 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155243Z" creationid="epsou" creationdate="20250406T155243Z">
         <seg>Αν&amp;τικατάσταση όλων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162220Z" creationid="epsou" creationdate="20250406T162220Z">
+        <seg>Α&amp;ντικατάσταση με αφετηρία</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162135Z" creationid="epsou" creationdate="20250406T162135Z">
+        <seg>Αντικατάσταση με &amp;μηχανική μετάφραση</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +970,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160020Z" creationid="epsou" creationdate="20250406T160020Z">
         <seg>Εκτελείται σε Java {0} ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T162225Z" creationid="epsou" creationdate="20250406T162225Z">
+        <seg>Ε&amp;πιλογή κειμένου αφετηρίας</seg>
       </tuv>
     </tu>
     <tu>
