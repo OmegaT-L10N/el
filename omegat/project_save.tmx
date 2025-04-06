@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161645Z" creationid="epsou" creationdate="20250406T161645Z">
+        <seg>&amp;Ιδιότητες...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155409Z" creationid="epsou" creationdate="20250406T155409Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155352Z" creationid="epsou" creationdate="20250406T155352Z">
         <seg>&amp;Αντικατάσταση και εύρεση επόμενου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161552Z" creationid="epsou" creationdate="20250406T161552Z">
+        <seg>&amp;Αποθήκευση</seg>
       </tuv>
     </tu>
     <tu>
@@ -203,10 +219,10 @@
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250321T121350Z" creationid="epsou" creationdate="20250321T121259Z">
+      <tuv lang="el" changeid="epsou" changedate="20250406T161542Z" creationid="epsou" creationdate="20250321T121259Z">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
-	  Tokenizer προς χρήση για τη γλώσσα αφετηρίας ή αφίξεως
+	  Tokenizer προς χρήση για τη γλώσσα αφετηρίας ή προορισμού
 	  (υπερισχύει των ρυθμίσεων έργου).</seg>
       </tuv>
     </tu>
@@ -494,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161542Z" creationid="epsou" creationdate="20250406T161446Z">
+        <seg>Καταχώ&amp;ρηση αρχείων προορισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155524Z" creationid="epsou" creationdate="20250406T155524Z">
@@ -522,6 +546,30 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161015Z" creationid="epsou" creationdate="20250406T161015Z">
         <seg>Αντιγραφή σφάλματος στο πρόχειρο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161558Z" creationid="epsou" creationdate="20250406T161558Z">
+        <seg>Δημιουργία &amp;μεταφρασμένων αρχείων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161629Z" creationid="epsou" creationdate="20250406T161629Z">
+        <seg>Δημιουργία τωρινού με&amp;ταφρασμένου αρχείου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161641Z" creationid="epsou" creationdate="20250406T161641Z">
+        <seg>Δημιουργία έργου MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +714,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161633Z" creationid="epsou" creationdate="20250406T161633Z">
+        <seg>Άνοιγμα έργου MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplementary
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -778,6 +834,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155249Z" creationid="epsou" creationdate="20250406T155249Z">
         <seg>Επιλογή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250406T161700Z" creationid="epsou" creationdate="20250406T161700Z">
+        <seg>Αρχεία α&amp;φετηρίας...</seg>
       </tuv>
     </tu>
     <tu>
