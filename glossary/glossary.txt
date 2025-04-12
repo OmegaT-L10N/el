@@ -6,3 +6,4 @@ GUI	GUI
 team project	ομαδικό έργο
 TMX	TMX
 pseudotranslation	ψευδομετάφραση
+segment	τεμάχιο
