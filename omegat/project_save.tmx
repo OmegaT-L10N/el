@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120610Z" creationid="epsou" creationdate="20250412T120610Z">
+        <seg>&amp;Αυτόματη συμπλήρωση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114800Z" creationid="epsou" creationdate="20250412T114800Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120221Z" creationid="epsou" creationdate="20250412T120221Z">
+        <seg>&amp;Μηχανική μετάφραση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115939Z" creationid="epsou" creationdate="20250412T115939Z">
@@ -234,6 +250,22 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161144Z" creationid="epsou" creationdate="20250406T161144Z">
         <seg>Ά&amp;νοιγμα...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120213Z" creationid="epsou" creationdate="20250412T120213Z">
+        <seg>&amp;Επιλογές</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120217Z" creationid="epsou" creationdate="20250412T120217Z">
+        <seg>&amp;Προτιμήσεις...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,8 +1496,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250412T120144Z" creationid="epsou" creationdate="20250412T120144Z">
-        <seg>&amp;</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120210Z" creationid="epsou" creationdate="20250412T120144Z">
+        <seg>&amp;Δέσμες ενεργειών...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1672,6 +1704,14 @@ The current setting is {0}MB;</seg>
         <seg>Γράψτε «java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar»
 στη γραμμή εντολών ή στη δέσμη έναρξης του OmegaT.
 Η τρέχουσα τιμή είναι {0} MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120243Z" creationid="epsou" creationdate="20250412T120243Z">
+        <seg>&amp;Χρήση ασαφούς αντιστοίχισης</seg>
       </tuv>
     </tu>
     <tu>
