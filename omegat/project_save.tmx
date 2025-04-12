@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121122Z" creationid="epsou" creationdate="20250412T121122Z">
+        <seg>&amp;Ενεργοποίηση συμπλήρωσης βάσει ιστορικού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Exported TMs</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161832Z" creationid="epsou" creationdate="20250406T161832Z">
@@ -886,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121112Z" creationid="epsou" creationdate="20250412T121112Z">
+        <seg>Αυτόματη συμπλήρωση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120812Z" creationid="epsou" creationdate="20250412T114837Z">
@@ -1094,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121130Z" creationid="epsou" creationdate="20250412T121130Z">
+        <seg>&amp;Ενεργοποίηση πρόβλεψης βάσει ιστορικού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155521Z" creationid="epsou" creationdate="20250406T155521Z">
@@ -1170,6 +1194,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115524Z" creationid="epsou" creationdate="20250412T115524Z">
         <seg>&amp;Επισήμανση τεμαχίων με σημειώσεις</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121132Z" creationid="epsou" creationdate="20250412T121132Z">
+        <seg>Ιστορικό</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1790,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121109Z" creationid="epsou" creationdate="20250412T121109Z">
+        <seg>Εναλλαγή προβολών με {0} και {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161825Z" creationid="epsou" creationdate="20250406T161825Z">
@@ -1770,6 +1810,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160957Z" creationid="epsou" creationdate="20250406T160957Z">
         <seg>Το έργο είναι άδειο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121134Z" creationid="epsou" creationdate="20250412T121134Z">
+        <seg>Θέμα:</seg>
       </tuv>
     </tu>
     <tu>
