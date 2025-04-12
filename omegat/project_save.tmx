@@ -854,6 +854,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115615Z" creationid="epsou" creationdate="20250412T115615Z">
+        <seg>&amp;Εμφάνιση κενών διαστημάτων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115638Z" creationid="epsou" creationdate="20250412T115638Z">
+        <seg>&amp;Εμφάνιση χαρακτήρων ελέγχου Bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115842Z" creationid="epsou" creationdate="20250412T115842Z">
+        <seg>&amp;Εμφάνιση πληροφοριών τροποποίησης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115553Z" creationid="epsou" creationdate="20250412T115553Z">
@@ -922,6 +946,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161325Z" creationid="epsou" creationdate="20250406T161325Z">
         <seg>Η σελίδα δεν κατέβηκε</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115653Z" creationid="epsou" creationdate="20250412T115653Z">
+        <seg>&amp;Επισήμανση αυτόματα συμπληρωμένων τεμαχίων</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1086,22 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T163041Z" creationid="epsou" creationdate="20250406T162940Z">
         <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115747Z" creationid="epsou" creationdate="20250412T115747Z">
+        <seg>&amp;Σήμανση προβλημάτων γλωσσικού ελέγχου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115722Z" creationid="epsou" creationdate="20250412T115722Z">
+        <seg>&amp;Σήμανση αντιστοιχιών γλωσσαρίου</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,6 +1592,14 @@ The current setting is {0}MB;</seg>
         <seg>Γράψτε «java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar»
 στη γραμμή εντολών ή στη δέσμη έναρξης του OmegaT.
 Η τρέχουσα τιμή είναι {0} MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115834Z" creationid="epsou" creationdate="20250412T115834Z">
+        <seg>&amp;Επιθετική χρήση εφεδρικής γραμματοσειράς</seg>
       </tuv>
     </tu>
     <tu>
