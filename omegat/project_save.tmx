@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115425Z" creationid="epsou" creationdate="20250412T115425Z">
+        <seg>&amp;Προβολή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Writable Glossary</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161921Z" creationid="epsou" creationdate="20250406T161921Z">
@@ -846,6 +854,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115553Z" creationid="epsou" creationdate="20250412T115553Z">
+        <seg>&amp;Εμφάνιση αδιάκοπων διαστημάτων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115459Z" creationid="epsou" creationdate="20250412T115459Z">
+        <seg>&amp;Εμφάνιση διαχωριστικών παραγράφου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115508Z" creationid="epsou" creationdate="20250412T115508Z">
+        <seg>&amp;Εμφάνιση τεμαχίων αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161140Z" creationid="epsou" creationdate="20250406T161140Z">
@@ -890,6 +922,38 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161325Z" creationid="epsou" creationdate="20250406T161325Z">
         <seg>Η σελίδα δεν κατέβηκε</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115434Z" creationid="epsou" creationdate="20250412T115434Z">
+        <seg>&amp;Επισήμανση μεταφρασμένων τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115440Z" creationid="epsou" creationdate="20250412T115440Z">
+        <seg>&amp;Επισήμανση αμετάφραστων τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115519Z" creationid="epsou" creationdate="20250412T115519Z">
+        <seg>&amp;Επισήμανση επαναλαμβανόμενων τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115524Z" creationid="epsou" creationdate="20250412T115524Z">
+        <seg>&amp;Επισήμανση τεμαχίων με σημειώσεις</seg>
       </tuv>
     </tu>
     <tu>
