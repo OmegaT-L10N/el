@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120018Z" creationid="epsou" creationdate="20250412T120018Z">
+        <seg>&amp;Ευθυγράμμιση αρχείων...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114800Z" creationid="epsou" creationdate="20250412T114800Z">
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115939Z" creationid="epsou" creationdate="20250412T115939Z">
+        <seg>&amp;Στατιστικά αντιστοίχισης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161040Z" creationid="epsou" creationdate="20250406T161040Z">
@@ -194,6 +210,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114851Z" creationid="epsou" creationdate="20250412T114851Z">
         <seg>&amp;Επόμενο τεμάχιο από tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115849Z" creationid="epsou" creationdate="20250412T115849Z">
+        <seg>&amp;Καμία</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115909Z" creationid="epsou" creationdate="20250412T115909Z">
+        <seg>&amp;Αποκατάσταση παραθύρου OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Save</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161552Z" creationid="epsou" creationdate="20250406T161552Z">
@@ -358,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115933Z" creationid="epsou" creationdate="20250412T115933Z">
+        <seg>&amp;Στατιστικά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161755Z" creationid="epsou" creationdate="20250406T161755Z">
@@ -370,6 +410,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162628Z" creationid="epsou" creationdate="20250406T162533Z">
         <seg>&amp;Κάθε Αρκτικό Κεφαλαίο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115913Z" creationid="epsou" creationdate="20250412T115913Z">
+        <seg>&amp;Εργαλεία</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +798,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115920Z" creationid="epsou" creationdate="20250412T115920Z">
+        <seg>&amp;Έλεγχος προβλημάτων...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115930Z" creationid="epsou" creationdate="20250412T115930Z">
+        <seg>&amp;Έλεγχος προβλημάτων για το τρέχον αρχείο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161355Z" creationid="epsou" creationdate="20250406T161355Z">
@@ -1106,6 +1170,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120011Z" creationid="epsou" creationdate="20250412T120011Z">
+        <seg>&amp;Στατιστικά αντιστοίχισης κατά αρχείο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment from tm/enforce/</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114906Z" creationid="epsou" creationdate="20250412T114906Z">
@@ -1390,6 +1462,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120144Z" creationid="epsou" creationdate="20250412T120144Z">
+        <seg>&amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;lect Source Text</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162225Z" creationid="epsou" creationdate="20250406T162225Z">
@@ -1632,6 +1712,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160148Z" creationid="epsou" creationdate="20250406T160148Z">
         <seg>Το έργο δεν φαίνεται να περιέχει μεταφράσιμα αρχεία.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115859Z" creationid="epsou" creationdate="20250412T115859Z">
+        <seg>&amp;για όλα τα τεμάχια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115855Z" creationid="epsou" creationdate="20250412T115855Z">
+        <seg>*για το τρέχον τεμάχιο</seg>
       </tuv>
     </tu>
     <tu>
