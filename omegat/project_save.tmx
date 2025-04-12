@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114035Z" creationid="epsou" creationdate="20250412T114035Z">
+        <seg>&amp;Μετάβαση σε</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155513Z" creationid="epsou" creationdate="20250406T155513Z">
@@ -734,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T113925Z" creationid="epsou" creationdate="20250412T113925Z">
+        <seg>Δημιουργία ενα&amp;λλακτικής μετάφρασης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161905Z" creationid="epsou" creationdate="20250406T161629Z">
@@ -1046,6 +1062,22 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114026Z" creationid="epsou" creationdate="20250412T114026Z">
+        <seg>Καταχώρηση ίδ&amp;ιας μετάφρασης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T113942Z" creationid="epsou" creationdate="20250412T113942Z">
+        <seg>Αφαίρε&amp;ση μετάφρασης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162135Z" creationid="epsou" creationdate="20250406T162135Z">
@@ -1230,6 +1262,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114011Z" creationid="epsou" creationdate="20250412T114011Z">
+        <seg>Ορισμός κενής μετάφρασης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So&amp;urce Files...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161700Z" creationid="epsou" creationdate="20250406T161700Z">
@@ -1296,6 +1336,14 @@ The current setting is {0}MB;</seg>
         <seg>Γράψτε «java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar»
 στη γραμμή εντολών ή στη δέσμη έναρξης του OmegaT.
 Η τρέχουσα τιμή είναι {0} MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T113917Z" creationid="epsou" creationdate="20250412T113917Z">
+        <seg>Χρήση ως πρ&amp;οεπιλεγμένης μετάφρασης</seg>
       </tuv>
     </tu>
     <tu>
