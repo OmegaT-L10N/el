@@ -922,6 +922,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114344Z" creationid="epsou" creationdate="20250412T114344Z">
+        <seg>Επόμενο αμετάφραστο τμήμα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T115011Z" creationid="epsou" creationdate="20250321T113947Z">
