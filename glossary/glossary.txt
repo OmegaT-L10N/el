@@ -7,3 +7,5 @@ team project	ομαδικό έργο
 TMX	TMX
 pseudotranslation	ψευδομετάφραση
 segment	τεμάχιο
+auto-populated segment	προσυμπληρωμένο τεμάχιο
+segmentation rule	κανόνας τεμαχισμού
