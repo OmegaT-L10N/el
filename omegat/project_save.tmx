@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114800Z" creationid="epsou" creationdate="20250412T114800Z">
+        <seg>&amp;Πίσω στο ιστορικό</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155207Z" creationid="epsou" creationdate="20250406T155054Z">
@@ -126,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114806Z" creationid="epsou" creationdate="20250412T114806Z">
+        <seg>&amp;Μπροστά στο ιστορικό</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161737Z" creationid="epsou" creationdate="20250406T161737Z">
@@ -174,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114851Z" creationid="epsou" creationdate="20250412T114851Z">
+        <seg>&amp;Επόμενο τεμάχιο από tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155037Z" creationid="epsou" creationdate="20250406T155037Z">
@@ -194,6 +218,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114511Z" creationid="epsou" creationdate="20250412T114511Z">
         <seg>&amp;Προηγούμενο τεμάχιο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114858Z" creationid="epsou" creationdate="20250412T114858Z">
+        <seg>&amp;Προηγούμενο τεμάχιο από tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114837Z" creationid="epsou" creationdate="20250412T114837Z">
+        <seg>&amp;Αυτόματα συμπληρωμένα τεμάχια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;urrent Target File</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161915Z" creationid="epsou" creationdate="20250406T161846Z">
@@ -822,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T115422Z" creationid="epsou" creationdate="20250412T115422Z">
+        <seg>Περιοχή επεξεργασίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155521Z" creationid="epsou" creationdate="20250406T155521Z">
@@ -946,6 +994,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114906Z" creationid="epsou" creationdate="20250412T114906Z">
+        <seg>&amp;Επόμενο τεμάχιο από tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114450Z" creationid="epsou" creationdate="20250412T114450Z">
@@ -970,10 +1026,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114643Z" creationid="epsou" creationdate="20250412T114643Z">
+        <seg>Επόμενο μονα&amp;δικό τεμάχιο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T115011Z" creationid="epsou" creationdate="20250321T113947Z">
         <seg>Καμία επιλογή: Εκκίνηση GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114919Z" creationid="epsou" creationdate="20250412T114919Z">
+        <seg>Σημειωματάριο</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1094,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161633Z" creationid="epsou" creationdate="20250406T161633Z">
         <seg>Άνοιγμα έργου MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114915Z" creationid="epsou" creationdate="20250412T114915Z">
+        <seg>&amp;Προηγούμενο τεμάχιο από tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1410,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161700Z" creationid="epsou" creationdate="20250406T161700Z">
         <seg>Αρχεία α&amp;φετηρίας...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114750Z" creationid="epsou" creationdate="20250412T114750Z">
+        <seg>&amp;Προέλευση επιλεγμένης αντιστοιχίας</seg>
       </tuv>
     </tu>
     <tu>
