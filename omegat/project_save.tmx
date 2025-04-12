@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121018Z" creationid="epsou" creationdate="20250412T121010Z">
+        <seg>&amp;Ταυτότητα...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161720Z" creationid="epsou" creationdate="20250406T161720Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155207Z" creationid="epsou" creationdate="20250406T155054Z">
         <seg>Άκ&amp;υρο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121039Z" creationid="epsou" creationdate="20250412T121039Z">
+        <seg>&amp;Έλεγχος για ενημερώσεις...</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120949Z" creationid="epsou" creationdate="20250412T120943Z">
+        <seg>&amp;Περιοχή επεξεργασίας...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Exported TMs</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161832Z" creationid="epsou" creationdate="20250406T161832Z">
@@ -174,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121001Z" creationid="epsou" creationdate="20250412T121001Z">
+        <seg>&amp;Βοήθεια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155513Z" creationid="epsou" creationdate="20250406T155513Z">
@@ -186,6 +218,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162128Z" creationid="epsou" creationdate="20250406T162116Z">
         <seg>&amp;Εισαγωγή αντιστοιχίας ή επιλογής</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121023Z" creationid="epsou" creationdate="20250412T121023Z">
+        <seg>&amp;Τελευταίες αλλαγές...</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,10 +446,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120853Z" creationid="epsou" creationdate="20250412T120853Z">
+        <seg>&amp;Αυτόματη εμφάνιση σχετικών προτάσεων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show Replacements</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155228Z" creationid="epsou" creationdate="20250406T155228Z">
         <seg>&amp;Εμφάνιση αντικαταστάσεων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121101Z" creationid="epsou" creationdate="20250412T121101Z">
+        <seg>&amp;Αυτόματη εμφάνιση σχετικών προτάσεων</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +522,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162037Z" creationid="epsou" creationdate="20250406T161957Z">
         <seg>Α&amp;ναίρεση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121005Z" creationid="epsou" creationdate="20250412T121005Z">
+        <seg>&amp;Εγχειρίδιο χρήσης</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120958Z" creationid="epsou" creationdate="20250412T120958Z">
+        <seg>&amp;Προσπέλαση φακέλου διαμόρφωσης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161227Z" creationid="epsou" creationdate="20250406T161227Z">
@@ -816,8 +888,8 @@
       <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250412T114837Z" creationid="epsou" creationdate="20250412T114837Z">
-        <seg>&amp;Αυτόματα συμπληρωμένα τεμάχια</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120812Z" creationid="epsou" creationdate="20250412T114837Z">
+        <seg>&amp;Προσυμπληρωμένα τεμάχια</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,10 +1118,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120942Z" creationid="epsou" creationdate="20250412T120942Z">
+        <seg>&amp;Καθολικοί κανόνες τεμαχισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120920Z" creationid="epsou" creationdate="20250412T120920Z">
+        <seg>&amp;Καθολικά φίλτρα αρχείου...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250412T115653Z" creationid="epsou" creationdate="20250412T115653Z">
-        <seg>&amp;Επισήμανση αυτόματα συμπληρωμένων τεμαχίων</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120817Z" creationid="epsou" creationdate="20250412T115653Z">
+        <seg>&amp;Επισήμανση προσυμπληρωμένων τεμαχίων</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1170,22 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115524Z" creationid="epsou" creationdate="20250412T115524Z">
         <seg>&amp;Επισήμανση τεμαχίων με σημειώσεις</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120911Z" creationid="epsou" creationdate="20250412T120902Z">
+        <seg>&amp;Συμπλήρωση βάσει ιστορικού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T120913Z" creationid="epsou" creationdate="20250412T120907Z">
+        <seg>&amp;Πρόβλεψη βάσει ιστορικού</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1270,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162409Z" creationid="epsou" creationdate="20250406T162409Z">
         <seg>Εισαγωγή ετικέτας {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T121031Z" creationid="epsou" creationdate="20250412T121031Z">
+        <seg>&amp;Μητρώο...</seg>
       </tuv>
     </tu>
     <tu>
