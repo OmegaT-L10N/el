@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114505Z" creationid="epsou" creationdate="20250412T114505Z">
+        <seg>Επόμε&amp;νο τεμάχιο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155037Z" creationid="epsou" creationdate="20250406T155037Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161144Z" creationid="epsou" creationdate="20250406T161144Z">
         <seg>Ά&amp;νοιγμα...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114511Z" creationid="epsou" creationdate="20250412T114511Z">
+        <seg>&amp;Προηγούμενο τεμάχιο</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +290,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162444Z" creationid="epsou" creationdate="20250406T162444Z">
         <seg>Ανα&amp;ζήτηση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114633Z" creationid="epsou" creationdate="20250412T114633Z">
+        <seg>Αρι&amp;θμός τεμαχίου...</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,10 +946,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114450Z" creationid="epsou" creationdate="20250412T114450Z">
+        <seg>Επόμενο &amp;μεταφρασμένο τεμάχιο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250412T114344Z" creationid="epsou" creationdate="20250412T114344Z">
-        <seg>Επόμενο αμετάφραστο τμήμα</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114443Z" creationid="epsou" creationdate="20250412T114344Z">
+        <seg>Επόμενο &amp;αμετάφραστο τεμάχιο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114553Z" creationid="epsou" creationdate="20250412T114553Z">
+        <seg>Επόμενη &amp;σημείωση</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1058,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155619Z" creationid="epsou" creationdate="20250406T155619Z">
         <seg>Πιθανές λύσεις:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250412T114605Z" creationid="epsou" creationdate="20250412T114605Z">
+        <seg>Προ&amp;ηγούμενη σημείωση</seg>
       </tuv>
     </tu>
     <tu>
