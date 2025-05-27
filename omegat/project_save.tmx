@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074334Z" creationid="epsou" creationdate="20250527T074334Z">
+        <seg>&amp;Κλείσιμο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161355Z" creationid="epsou" creationdate="20250406T161355Z">
@@ -1230,6 +1238,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074629Z" creationid="epsou" creationdate="20250527T074629Z">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071045Z" creationid="epsou" creationdate="20250527T070800Z">
@@ -1336,8 +1356,8 @@
       <tuv lang="en">
         <seg>Filter:</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T074300Z" creationid="epsou" creationdate="20250527T074241Z">
-        <seg>&amp;Φιλτράρισμα</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074330Z" creationid="epsou" creationdate="20250527T074241Z">
+        <seg>Φίλτρο:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074508Z" creationid="epsou" creationdate="20250527T074508Z">
+        <seg>Αριθμός μοναδικών τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OVR</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T072357Z" creationid="epsou" creationdate="20250527T072357Z">
@@ -1782,6 +1810,54 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161633Z" creationid="epsou" creationdate="20250406T161633Z">
         <seg>Άνοιγμα έργου MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074340Z" creationid="epsou" creationdate="20250527T074340Z">
+        <seg>Άνοιγμα αρχείου αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074430Z" creationid="epsou" creationdate="20250527T074430Z">
+        <seg>Άνοιγμα θέσης αρχείου αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074436Z" creationid="epsou" creationdate="20250527T074436Z">
+        <seg>Άνοιγμα αρχείου προορισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074451Z" creationid="epsou" creationdate="20250527T074451Z">
+        <seg>Άνοιγμα θέσης αρχείου προορισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074348Z" creationid="epsou" creationdate="20250527T074348Z">
+        <seg>Άνοιγμα {0} αρχείων αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074445Z" creationid="epsou" creationdate="20250527T074445Z">
+        <seg>Άνοιγμα {0} αρχείων προορισμού</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2374,22 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160158Z" creationid="epsou" creationdate="20250406T160158Z">
         <seg>Για να προσθέσετε αρχεία στο έργο, μπορείτε:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074502Z" creationid="epsou" creationdate="20250527T074502Z">
+        <seg>Συνολικός αριθμός τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074514Z" creationid="epsou" creationdate="20250527T074514Z">
+        <seg>Μεταφρασμένα μοναδικά τεμάχια</seg>
       </tuv>
     </tu>
     <tu>
