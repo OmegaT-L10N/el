@@ -9,3 +9,7 @@ pseudotranslation	ψευδομετάφραση
 segment	τεμάχιο
 auto-populated segment	προσυμπληρωμένο τεμάχιο
 segmentation rule	κανόνας τεμαχισμού
+source folder	φάκελος αφετηρίας
+tag	ετικέτα
+source file	αρχείο αφετηρίας
+target file	αρχείο προορισμού
