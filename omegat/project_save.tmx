@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071302Z" creationid="epsou" creationdate="20250527T071302Z">
+        <seg>Ελέγξτε αν είναι εσκεμμένο.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161355Z" creationid="epsou" creationdate="20250406T161355Z">
@@ -1134,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071321Z" creationid="epsou" creationdate="20250527T071321Z">
+        <seg>Συμπληρώστε τον  αριθμό τεμαχίου:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155521Z" creationid="epsou" creationdate="20250406T155521Z">
@@ -1234,6 +1250,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120920Z" creationid="epsou" creationdate="20250412T120920Z">
         <seg>&amp;Καθολικά φίλτρα αρχείου...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071325Z" creationid="epsou" creationdate="20250527T071325Z">
+        <seg>Μετάβαση στο τεμάχιο</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,6 +1470,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120011Z" creationid="epsou" creationdate="20250412T120011Z">
         <seg>&amp;Στατιστικά αντιστοίχισης κατά αρχείο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071416Z" creationid="epsou" creationdate="20250527T071414Z">
+        <seg>Περισσότερα</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,10 +1710,26 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071453Z" creationid="epsou" creationdate="20250527T071453Z">
+        <seg>Να φορτώσει ξανά το έργο;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remo&amp;ve Translation</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T113942Z" creationid="epsou" creationdate="20250412T113942Z">
         <seg>Αφαίρε&amp;ση μετάφρασης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071403Z" creationid="epsou" creationdate="20250527T071403Z">
+        <seg>Επανειλημμένα τεμάχια: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1798,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071504Z" creationid="epsou" creationdate="20250527T071500Z">
+        <seg>Αποθηκεύεται το έργο…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120210Z" creationid="epsou" creationdate="20250412T120144Z">
@@ -1802,6 +1858,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T122019Z" creationid="epsou" creationdate="20250321T122019Z">
         <seg>Δείτε λεπτομέρειες παρακάτω.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071412Z" creationid="epsou" creationdate="20250527T071412Z">
+        <seg>Τεμάχιο {0,number,#}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +2022,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071249Z" creationid="epsou" creationdate="20250527T071249Z">
+        <seg>Δεν υπάρχουν ρυθμίσεις Git στο απομακρυσμένο αρχείο έργου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160158Z" creationid="epsou" creationdate="20250406T160158Z">
@@ -2056,6 +2128,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161001Z" creationid="epsou" creationdate="20250406T161001Z">
         <seg>Προειδοποίηση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071431Z" creationid="epsou" creationdate="20250527T071431Z">
+        <seg>Πρέπει να συμπληρώσετε αριθμό από 1 έως {0}.</seg>
       </tuv>
     </tu>
     <tu>
