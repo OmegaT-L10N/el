@@ -1618,6 +1618,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073536Z" creationid="epsou" creationdate="20250527T073536Z">
+        <seg>&amp;Μία θέση κάτω</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073529Z" creationid="epsou" creationdate="20250527T073529Z">
+        <seg>&amp;Πρώτη θέση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073818Z" creationid="epsou" creationdate="20250527T073818Z">
+        <seg>&amp;Τελευταία θέση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073533Z" creationid="epsou" creationdate="20250527T073533Z">
+        <seg>&amp;Μία θέση πάνω</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment from tm/enforce/</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114906Z" creationid="epsou" creationdate="20250412T114906Z">
@@ -2038,6 +2070,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073412Z" creationid="epsou" creationdate="20250527T073412Z">
+        <seg>Τεμάχια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155249Z" creationid="epsou" creationdate="20250406T155249Z">
@@ -2278,6 +2318,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073416Z" creationid="epsou" creationdate="20250527T073416Z">
+        <seg>Μοναδικά τεμάχια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113754Z" creationid="epsou" creationdate="20250321T113754Z">
@@ -2352,6 +2400,16 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161001Z" creationid="epsou" creationdate="20250406T161001Z">
         <seg>Προειδοποίηση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073428Z" creationid="epsou" creationdate="20250527T073428Z">
+        <seg>Μπορείτε να βρείτε λεπτομερή στατιστικά στο αρχείο:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
