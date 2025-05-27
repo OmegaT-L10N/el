@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T064036Z" creationid="epsou" creationdate="20250527T064036Z">
+        <seg>Το OmegaT χρειάζεται να φορτώσει ξανά το έργο για να λάβει υπόψη τις αλλαγές.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT options:</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113937Z" creationid="epsou" creationdate="20250321T113937Z">
@@ -1562,6 +1570,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114026Z" creationid="epsou" creationdate="20250412T114026Z">
         <seg>Καταχώρηση ίδ&amp;ιας μετάφρασης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T064625Z" creationid="epsou" creationdate="20250527T064625Z">
+        <seg>Να φορτώσει ξανά το έργο τώρα;</seg>
       </tuv>
     </tu>
     <tu>
