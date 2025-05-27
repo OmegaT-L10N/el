@@ -1054,6 +1054,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071529Z" creationid="epsou" creationdate="20250527T071529Z">
+        <seg>Δρομέας κλειδωμένος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071533Z" creationid="epsou" creationdate="20250527T071533Z">
+        <seg>Δρομέας ξεκλείδωτος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Defaults to xml.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154306Z" creationid="epsou" creationdate="20250406T154306Z">
@@ -1594,6 +1610,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072348Z" creationid="epsou" creationdate="20250527T072348Z">
+        <seg>Λειτουργία αντικατάστασης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>P&amp;revious Segment from tm/enforce/</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114915Z" creationid="epsou" creationdate="20250412T114915Z">
@@ -1650,6 +1674,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T120524Z" creationid="epsou" creationdate="20250321T120524Z">
         <seg>Μόνο διαδρομή έργου: Εκκίνηση GUI και φόρτωση καθορισμένου έργου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071521Z" creationid="epsou" creationdate="20250527T071521Z">
+        <seg>Το έργο αποθηκεύτηκε</seg>
       </tuv>
     </tu>
     <tu>
@@ -1800,8 +1832,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T071504Z" creationid="epsou" creationdate="20250527T071500Z">
-        <seg>Αποθηκεύεται το έργο…</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071517Z" creationid="epsou" creationdate="20250527T071500Z">
+        <seg>Αποθηκεύεται το έργο...</seg>
       </tuv>
     </tu>
     <tu>
