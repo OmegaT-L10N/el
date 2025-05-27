@@ -1142,6 +1142,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T070100Z" creationid="epsou" creationdate="20250527T070100Z">
+        <seg>Απέτυχε η φόρτωση του έργου εξαιτίας προβλήματος πρόσβασης στο αρχείο.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T070038Z" creationid="epsou" creationdate="20250527T070038Z">
+        <seg>Απέτυχε η φόρτωση του καθορισμένου έργου!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T065946Z" creationid="epsou" creationdate="20250527T065946Z">
+        <seg>Απέτυχε η φόρτωση της μεταφραστικής μνήμης {0} για το έργο!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global &amp;Segmentation Rules...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120942Z" creationid="epsou" creationdate="20250412T120942Z">
@@ -1786,6 +1810,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114011Z" creationid="epsou" creationdate="20250412T114011Z">
         <seg>Ορισμός κενής μετάφρασης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T065933Z" creationid="epsou" creationdate="20250527T065933Z">
+        <seg>Παραβλέφθηκε το πηγαίο αρχείο {0} διότι δεν μπορούσε να φορτωθεί.</seg>
       </tuv>
     </tu>
     <tu>
