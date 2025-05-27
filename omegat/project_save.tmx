@@ -950,6 +950,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071112Z" creationid="epsou" creationdate="20250527T071112Z">
+        <seg>Καταχωρούνται τα αρχεία αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071144Z" creationid="epsou" creationdate="20250527T071144Z">
+        <seg>Καταχωρούνται τα αρχεία προορισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155524Z" creationid="epsou" creationdate="20250406T155524Z">
@@ -1128,16 +1144,16 @@
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T070800Z" creationid="epsou" creationdate="20250527T070800Z">
-        <seg>Απέτυχε η καταχώρηση των πηγαίων αρχείων!</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071045Z" creationid="epsou" creationdate="20250527T070800Z">
+        <seg>Απέτυχε η καταχώρηση των αρχείων αφετηρίας!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T070817Z" creationid="epsou" creationdate="20250527T070817Z">
-        <seg>Απέτυχε η καταχώρηση των πηγαίων αρχείων!</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071101Z" creationid="epsou" creationdate="20250527T070817Z">
+        <seg>Απέτυχε η καταχώρηση των αρχείων προορισμού!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1184,8 @@
       <tuv lang="en">
         <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T070244Z" creationid="epsou" creationdate="20250527T070210Z">
-        <seg>Απέτυχε η φόρτωση του έργου διότι ο καθορισμένος πηγαίος φάκελος περιέχει συμβολικό ή σκληρό σύνδεσμο ο οποίος δείχνει προς τον εαυτό του ή προς υποφάκελό του.</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T070951Z" creationid="epsou" creationdate="20250527T070210Z">
+        <seg>Απέτυχε η φόρτωση του έργου διότι ο καθορισμένος φάκελος αφετηρίας περιέχει συμβολικό ή σκληρό σύνδεσμο ο οποίος δείχνει προς τον εαυτό του ή προς υποφάκελό του.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1210,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T065946Z" creationid="epsou" creationdate="20250527T065946Z">
         <seg>Απέτυχε η φόρτωση της μεταφραστικής μνήμης {0} για το έργο!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071214Z" creationid="epsou" creationdate="20250527T071214Z">
+        <seg>Απέτυχε η ενημέρωση των ιδιοτήτων του έργου</seg>
       </tuv>
     </tu>
     <tu>
@@ -1388,8 +1412,8 @@
       <tuv lang="en">
         <seg>Make sure all links are outside the source folder and subfolders.</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T070238Z" creationid="epsou" creationdate="20250527T070238Z">
-        <seg>Βεβαιωθείτε ότι όλοι οι σύνδεσμοι δείχνουν έξω από τον πηγαίο φάκελο και τους υποφακέλους του.</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071000Z" creationid="epsou" creationdate="20250527T070238Z">
+        <seg>Βεβαιωθείτε ότι όλοι οι σύνδεσμοι δείχνουν έξω από τον φάκελο αφετηρίας και τους υποφακέλους του.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,6 +1902,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071132Z" creationid="epsou" creationdate="20250527T071132Z">
+        <seg>Τα αρχεία αφετηρίας καταχωρήθηκαν</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114750Z" creationid="epsou" creationdate="20250412T114750Z">
@@ -1898,6 +1930,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161825Z" creationid="epsou" creationdate="20250406T161825Z">
         <seg>&amp;ΜΜ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T071152Z" creationid="epsou" creationdate="20250527T071152Z">
+        <seg>Τα αρχεία προορισμού καταχωρήθηκαν</seg>
       </tuv>
     </tu>
     <tu>
