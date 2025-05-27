@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072400Z" creationid="epsou" creationdate="20250527T072400Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 	  Source- or target-language tokenizer to use (overrides project
@@ -1126,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072432Z" creationid="epsou" creationdate="20250527T072432Z">
+        <seg>Σίγουρα θέλετε να εγκαταλείψετε;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161140Z" creationid="epsou" creationdate="20250406T161140Z">
@@ -1350,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072358Z" creationid="epsou" creationdate="20250527T072358Z">
+        <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If --stats-type is not specified, the format is
 	    detected from the file extension.</seg>
       </tuv>
@@ -1410,6 +1434,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072353Z" creationid="epsou" creationdate="20250527T072353Z">
+        <seg>Λειτουργία εισαγωγής</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing T&amp;ag</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162404Z" creationid="epsou" creationdate="20250406T162404Z">
@@ -1430,6 +1462,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T121031Z" creationid="epsou" creationdate="20250412T121031Z">
         <seg>&amp;Μητρώο...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072356Z" creationid="epsou" creationdate="20250527T072356Z">
+        <seg>LCK</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1590,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114919Z" creationid="epsou" creationdate="20250412T114919Z">
         <seg>Σημειωματάριο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072357Z" creationid="epsou" creationdate="20250527T072357Z">
+        <seg>OVR</seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2114,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160158Z" creationid="epsou" creationdate="20250406T160158Z">
         <seg>Για να προσθέσετε αρχεία στο έργο, μπορείτε:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072357Z" creationid="epsou" creationdate="20250527T072357Z">
+        <seg>UNL</seg>
       </tuv>
     </tu>
     <tu>
