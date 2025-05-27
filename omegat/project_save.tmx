@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073228Z" creationid="epsou" creationdate="20250527T073228Z">
+        <seg>&amp;Εφαρμογή διαφορετικού μεγέθους γραμματοσειράς στον πίνακα λεξικού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073210Z" creationid="epsou" creationdate="20250527T073210Z">
+        <seg>&amp;Εφαρμογή της ίδιας γραμματοσειράς στα δεδομένα πινάκων (λίστα αρχείων αφετηρίας, στατιστικά κ.λπ.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-Completion</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120610Z" creationid="epsou" creationdate="20250412T120610Z">
@@ -480,8 +496,8 @@
       <tuv lang="en">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T161750Z" creationid="epsou" creationdate="20250406T161743Z">
-        <seg>Αρχεία προέ&amp;λευσης</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073250Z" creationid="epsou" creationdate="20250406T161743Z">
+        <seg>Αρχεία &amp;αφετηρίας</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073404Z" creationid="epsou" creationdate="20250527T073404Z">
+        <seg>Εγκωδίκευση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071321Z" creationid="epsou" creationdate="20250527T071321Z">
@@ -1290,6 +1314,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T072656Z" creationid="epsou" creationdate="20250527T072656Z">
         <seg>Αρχείο: μεταφρασμένα μοναδικά % (μοναδικά ακόμη) / έργο: μεταφρασμένα μοναδικά % (μοναδικά ακόμη), σύνολο τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073307Z" creationid="epsou" creationdate="20250527T073307Z">
+        <seg>Όνομα αρχείου</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,6 +2142,22 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073303Z" creationid="epsou" creationdate="20250527T073303Z">
+        <seg>Αρχεία αφετηρίας ({0} από {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073243Z" creationid="epsou" creationdate="20250527T073243Z">
+        <seg>Αρχεία αφετηρίας ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071132Z" creationid="epsou" creationdate="20250527T071132Z">
@@ -2421,5 +2469,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">5.8/Bundle.properties</prop>
+      <prop type="id">PF_FILTERNAME</prop>
+      <tuv lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073343Z" creationid="epsou" creationdate="20250527T073343Z">
+        <seg>Φίλτρο</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
