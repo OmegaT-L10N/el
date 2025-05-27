@@ -950,6 +950,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074631Z" creationid="epsou" creationdate="20250527T074631Z">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;urrent Target File</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161915Z" creationid="epsou" creationdate="20250406T161846Z">
@@ -1190,6 +1202,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074704Z" creationid="epsou" creationdate="20250527T074704Z">
+        <seg>Κατεβαίνει το έργο...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162232Z" creationid="epsou" creationdate="20250406T162230Z">
@@ -1202,6 +1222,18 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115422Z" creationid="epsou" creationdate="20250412T115422Z">
         <seg>Περιοχή επεξεργασίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074636Z" creationid="epsou" creationdate="20250527T074636Z">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,10 +1262,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074639Z" creationid="epsou" creationdate="20250527T074639Z">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155521Z" creationid="epsou" creationdate="20250406T155521Z">
         <seg>Σφάλμα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074740Z" creationid="epsou" creationdate="20250527T074740Z">
+        <seg>Σφάλμα δημιουργίας έργου!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074733Z" creationid="epsou" creationdate="20250527T074733Z">
+        <seg>Σφάλμα αποθήκευσης αρχείου έργου!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1422,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074812Z" creationid="epsou" creationdate="20250527T074812Z">
+        <seg>Ο φάκελος {0} δημιουργήθηκε αυτόματα για το ομαδικό έργο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T073023Z" creationid="epsou" creationdate="20250527T073023Z">
@@ -1390,6 +1458,18 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071325Z" creationid="epsou" creationdate="20250527T071325Z">
         <seg>Μετάβαση στο τεμάχιο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074650Z" creationid="epsou" creationdate="20250527T074650Z">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,6 +1686,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074707Z" creationid="epsou" creationdate="20250527T074707Z">
+        <seg>Φορτώνει το έργο...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074815Z" creationid="epsou" creationdate="20250527T074815Z">
+        <seg>Φορτώνει: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure all links are outside the source folder and subfolders.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071000Z" creationid="epsou" creationdate="20250527T070238Z">
@@ -1650,6 +1746,18 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071416Z" creationid="epsou" creationdate="20250527T071414Z">
         <seg>Περισσότερα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074645Z" creationid="epsou" creationdate="20250527T074645Z">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1994,18 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074632Z" creationid="epsou" creationdate="20250527T074632Z">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplementary
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -1950,6 +2070,18 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162120Z" creationid="epsou" creationdate="20250406T162056Z">
         <seg>Αντικατάσταση με αντιστοιχία ή επιλογή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074644Z" creationid="epsou" creationdate="20250527T074644Z">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
@@ -2290,10 +2422,27 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074823Z" creationid="epsou" creationdate="20250527T074823Z">
+        <seg>Ολοκληρώθηκε η φόρτωση του αρχείου αφετηρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071132Z" creationid="epsou" creationdate="20250527T071132Z">
         <seg>Τα αρχεία αφετηρίας καταχωρήθηκαν</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"By" or "with" filter errors?</note>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074946Z" creationid="epsou" creationdate="20250527T074855Z">
+        <seg>Τα αρχεία αφετηρίας φόρτωσαν αλλά παραλείφθηκαν όσα είχαν σφάλμα φίλτρου</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2487,18 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074634Z" creationid="epsou" creationdate="20250527T074634Z">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project is empty</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160957Z" creationid="epsou" creationdate="20250406T160957Z">
@@ -2358,6 +2519,18 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071249Z" creationid="epsou" creationdate="20250527T071249Z">
         <seg>Δεν υπάρχουν ρυθμίσεις Git στο απομακρυσμένο αρχείο έργου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074633Z" creationid="epsou" creationdate="20250527T074633Z">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,6 +2681,18 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161001Z" creationid="epsou" creationdate="20250406T161001Z">
         <seg>Προειδοποίηση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074631Z" creationid="epsou" creationdate="20250527T074631Z">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
