@@ -2328,8 +2328,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remaining Segments</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T081613Z" creationid="epsou" creationdate="20250527T081613Z">
-        <seg>Τεμάχια ακόμη</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082124Z" creationid="epsou" creationdate="20250527T081613Z">
+        <seg>Υπόλοιπο τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082135Z" creationid="epsou" creationdate="20250527T082135Z">
+        <seg>Υπόλοιπο λέξεων</seg>
       </tuv>
     </tu>
     <tu>
@@ -2855,10 +2863,18 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082130Z" creationid="epsou" creationdate="20250527T082130Z">
+        <seg>Υπόλοιπο μοναδικών τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Remaining:</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T075938Z" creationid="epsou" creationdate="20250527T075938Z">
-        <seg>Μοναδικά ακόμη:</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082118Z" creationid="epsou" creationdate="20250527T075938Z">
+        <seg>Υπόλοιπο μοναδικών:</seg>
       </tuv>
     </tu>
     <tu>
