@@ -878,6 +878,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083242Z" creationid="epsou" creationdate="20250527T083242Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083241Z" creationid="epsou" creationdate="20250527T083241Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083240Z" creationid="epsou" creationdate="20250527T083240Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083239Z" creationid="epsou" creationdate="20250527T083239Z">
+        <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160137Z" creationid="epsou" creationdate="20250406T160137Z">
@@ -966,6 +998,14 @@ Buy another drink</seg>
         <seg>Bartender yells loud:
 Your page cannot be found, boy
 Buy another drink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083100Z" creationid="epsou" creationdate="20250527T083100Z">
+        <seg>&amp;Αντιγραφή όλων των δεδομένων στο πρόχειρο</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,6 +1418,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083238Z" creationid="epsou" creationdate="20250527T083144Z">
+        <seg>Ακριβής αντιστοιχία:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -1510,6 +1558,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083344Z" creationid="epsou" creationdate="20250527T083344Z">
+        <seg>Αρχείο {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T072620Z" creationid="epsou" creationdate="20250527T072620Z">
@@ -1554,6 +1610,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T073023Z" creationid="epsou" creationdate="20250527T073023Z">
         <seg>Γραμματοσειρά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083348Z" creationid="epsou" creationdate="20250527T083348Z">
+        <seg>Για όλα τα αρχεία:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,10 +1942,26 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083105Z" creationid="epsou" creationdate="20250527T083105Z">
+        <seg>Στατιστικά αντιστοίχισης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120011Z" creationid="epsou" creationdate="20250412T120011Z">
         <seg>&amp;Στατιστικά αντιστοίχισης κατά αρχείο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083113Z" creationid="epsou" creationdate="20250527T083113Z">
+        <seg>Στατιστικά αντιστοίχισης κατά αρχείο</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +2054,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114643Z" creationid="epsou" creationdate="20250412T114643Z">
         <seg>Επόμενο μονα&amp;δικό τεμάχιο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083338Z" creationid="epsou" creationdate="20250527T083338Z">
+        <seg>Χωρίς αντιστοιχία:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2260,8 +2348,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250406T162120Z" creationid="epsou" creationdate="20250406T162056Z">
-        <seg>Αντικατάσταση με αντιστοιχία ή επιλογή</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083228Z" creationid="epsou" creationdate="20250406T162056Z">
+        <seg>&amp;Αντικατάσταση με αντιστοιχία ή επιλογή</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2466,30 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T083005Z" creationid="epsou" creationdate="20250527T071403Z">
         <seg>Επαναλαμβανόμενα τεμάχια: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083133Z" creationid="epsou" creationdate="20250527T083133Z">
+        <seg>Επαναλήψεις από άλλα αρχεία:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083127Z" creationid="epsou" creationdate="20250527T083127Z">
+        <seg>Επαναλήψεις σε αυτό το αρχείο:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083120Z" creationid="epsou" creationdate="20250527T083120Z">
+        <seg>Επαναλήψεις:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2703,6 +2815,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083103Z" creationid="epsou" creationdate="20250527T083103Z">
+        <seg>Στατιστικά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T121109Z" creationid="epsou" creationdate="20250412T121109Z">
@@ -2899,6 +3019,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T070428Z" creationid="epsou" creationdate="20250527T070428Z">
         <seg>Αδύνατον να δημιουργηθούν τα μεταφρασμένα αρχεία διότι λείπουν ή έχουν καταστραφεί ετικέτες.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083049Z" creationid="epsou" creationdate="20250527T083049Z">
+        <seg>Μοναδικοί χαρακτήρες (με κενά)</seg>
       </tuv>
     </tu>
     <tu>
