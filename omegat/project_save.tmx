@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073023Z" creationid="epsou" creationdate="20250527T073023Z">
+        <seg>Γραμματοσειρά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global &amp;Segmentation Rules...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120942Z" creationid="epsou" creationdate="20250412T120942Z">
@@ -1502,6 +1510,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T072356Z" creationid="epsou" creationdate="20250527T072356Z">
         <seg>LCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073017Z" creationid="epsou" creationdate="20250527T073017Z">
+        <seg>Τελευταία τροποποίηση από {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +1926,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073109Z" creationid="epsou" creationdate="20250527T073109Z">
+        <seg>Δοκιμαστικό κείμενο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071517Z" creationid="epsou" creationdate="20250527T071500Z">
@@ -2062,6 +2086,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073025Z" creationid="epsou" creationdate="20250527T073025Z">
+        <seg>Μέγεθος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped source file {0} because it could not be loaded.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T065933Z" creationid="epsou" creationdate="20250527T065933Z">
@@ -2150,10 +2182,26 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073054Z" creationid="epsou" creationdate="20250527T073054Z">
+        <seg>Έτσι θα φαίνεται το κείμενο στην οθόνη.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160158Z" creationid="epsou" creationdate="20250406T160158Z">
         <seg>Για να προσθέσετε αρχεία στο έργο, μπορείτε:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073011Z" creationid="epsou" creationdate="20250527T073011Z">
+        <seg>Τελευταία τροποποίηση μετάφρασης από {0} στις {1} ώρα {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2354,14 @@ The current setting is {0}MB;</seg>
       <tuv lang="el" changeid="epsou" changedate="20250321T120836Z" creationid="epsou" creationdate="20250321T120836Z">
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Εργαλείο ομαδικού έργου.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T073020Z" creationid="epsou" creationdate="20250527T073020Z">
+        <seg>άγνωστο</seg>
       </tuv>
     </tu>
     <tu>
