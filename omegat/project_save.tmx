@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075840Z" creationid="epsou" creationdate="20250527T075840Z">
+        <seg>#Αρχεία</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T121018Z" creationid="epsou" creationdate="20250412T121010Z">
@@ -986,6 +994,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075837Z" creationid="epsou" creationdate="20250527T075837Z">
+        <seg>Χαρακτήρες (με κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075832Z" creationid="epsou" creationdate="20250527T075832Z">
+        <seg>Χαρακτήρες (χωρίς κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115920Z" creationid="epsou" creationdate="20250412T115920Z">
@@ -1324,8 +1348,16 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error creating project!</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T074740Z" creationid="epsou" creationdate="20250527T074740Z">
-        <seg>Σφάλμα δημιουργίας έργου!</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075646Z" creationid="epsou" creationdate="20250527T074740Z">
+        <seg>Σφάλμα στη δημιουργία έργου!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075813Z" creationid="epsou" creationdate="20250527T075813Z">
+        <seg>Σφάλμα στην παρακολούθηση των εντολών μετεπεξεργασίας!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1340,8 +1372,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error starting post-processing commands: {0}</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T075642Z" creationid="epsou" creationdate="20250527T075642Z">
-        <seg>Σφάλμα </seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075710Z" creationid="epsou" creationdate="20250527T075642Z">
+        <seg>Σφάλμα στην έναρξη των εντολών μετεπεξεργασίας: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1394,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T075600Z" creationid="epsou" creationdate="20250527T075600Z">
         <seg>Εκτελούνται εντολές μετεπεξεργασίας...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075735Z" creationid="epsou" creationdate="20250527T075735Z">
+        <seg>Κωδικός εξόδου {0}: «{1}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075724Z" creationid="epsou" creationdate="20250527T075724Z">
+        <seg>Κωδικός εξόδου: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,10 +2170,50 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075755Z" creationid="epsou" creationdate="20250527T075755Z">
+        <seg>Η εντολή μετεπεξεργασίας απέτυχε.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075717Z" creationid="epsou" creationdate="20250527T075648Z">
+        <seg>Οι εντολές μετεπεξεργασίας ολοκληρώθηκαν.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075741Z" creationid="epsou" creationdate="20250527T075741Z">
+        <seg>Οι εντολές μετεπεξεργασίας απέτυχαν.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075803Z" creationid="epsou" creationdate="20250527T075803Z">
+        <seg>Οι εντολές μετεπεξεργασίας διακόπηκαν.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre&amp;vious Note</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114605Z" creationid="epsou" creationdate="20250412T114605Z">
         <seg>Προ&amp;ηγούμενη σημείωση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075817Z" creationid="epsou" creationdate="20250527T075817Z">
+        <seg>Στατιστικά έργου</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2306,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071453Z" creationid="epsou" creationdate="20250527T071453Z">
         <seg>Να φορτώσει ξανά το έργο;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075855Z" creationid="epsou" creationdate="20250527T075855Z">
+        <seg>Ακόμη:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2655,6 +2751,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075824Z" creationid="epsou" creationdate="20250527T075824Z">
+        <seg>Σύνολο:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file created</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T075146Z" creationid="epsou" creationdate="20250527T075137Z">
@@ -2715,6 +2819,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T070428Z" creationid="epsou" creationdate="20250527T070428Z">
         <seg>Αδύνατον να δημιουργηθούν τα μεταφρασμένα αρχεία διότι λείπουν ή έχουν καταστραφεί ετικέτες.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075938Z" creationid="epsou" creationdate="20250527T075938Z">
+        <seg>Μοναδικά ακόμη:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2813,6 +2925,14 @@ Your page is not found</seg>
         <seg>Wind catches lily
 Scatt'ring petals to the wind:
 Your page is not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075827Z" creationid="epsou" creationdate="20250527T075827Z">
+        <seg>Λέξεις</seg>
       </tuv>
     </tu>
     <tu>
