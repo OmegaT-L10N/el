@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083437Z" creationid="epsou" creationdate="20250527T083437Z">
+        <seg>Τα array δεν πρέπει να είναι null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T121112Z" creationid="epsou" creationdate="20250412T121112Z">
@@ -1242,6 +1250,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083623Z" creationid="epsou" creationdate="20250527T083623Z">
+        <seg>Φάκελος λεξικών:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115615Z" creationid="epsou" creationdate="20250412T115615Z">
@@ -1462,6 +1478,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083651Z" creationid="epsou" creationdate="20250527T083651Z">
+        <seg>Φάκελος εξαγόμενων μεταφραστικών μνημών:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071045Z" creationid="epsou" creationdate="20250527T070800Z">
@@ -1558,6 +1582,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083505Z" creationid="epsou" creationdate="20250527T083505Z">
+        <seg>Θέσεις αρχείων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File {0}: {1}</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T083344Z" creationid="epsou" creationdate="20250527T083344Z">
@@ -1634,6 +1666,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120920Z" creationid="epsou" creationdate="20250412T120920Z">
         <seg>&amp;Καθολικά φίλτρα αρχείου...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083600Z" creationid="epsou" creationdate="20250527T083600Z">
+        <seg>Φάκελος γλωσσαρίων:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,6 +1902,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083459Z" creationid="epsou" creationdate="20250527T083459Z">
+        <seg>Γλώσσες</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T073017Z" creationid="epsou" creationdate="20250527T073017Z">
@@ -1906,6 +1954,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T074815Z" creationid="epsou" creationdate="20250527T074815Z">
         <seg>Φορτώνει: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083515Z" creationid="epsou" creationdate="20250527T083515Z">
+        <seg>&amp;Τοπικά φίλτρα αρχείου...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083523Z" creationid="epsou" creationdate="20250527T083523Z">
+        <seg>&amp;Τοπικοί κανόνες τεμαχισμού...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2218,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083535Z" creationid="epsou" creationdate="20250527T083535Z">
+        <seg>Άνοιγμα έργου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Source File</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T074340Z" creationid="epsou" creationdate="20250527T074340Z">
@@ -2198,6 +2270,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T074445Z" creationid="epsou" creationdate="20250527T074445Z">
         <seg>Άνοιγμα {0} αρχείων προορισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083501Z" creationid="epsou" creationdate="20250527T083501Z">
+        <seg>Επιλογές</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2390,14 @@ everything.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T114605Z" creationid="epsou" creationdate="20250412T114605Z">
         <seg>Προ&amp;ηγούμενη σημείωση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083457Z" creationid="epsou" creationdate="20250527T083457Z">
+        <seg>Ιδιότητες έργου</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2678,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083453Z" creationid="epsou" creationdate="20250527T083453Z">
+        <seg>&amp;Τεμαχισμός κατά πρόταση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162450Z" creationid="epsou" creationdate="20250406T162450Z">
@@ -2778,6 +2874,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071132Z" creationid="epsou" creationdate="20250527T071132Z">
         <seg>Τα αρχεία αφετηρίας καταχωρήθηκαν</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083546Z" creationid="epsou" creationdate="20250527T083546Z">
+        <seg>Φάκελος αρχείων αφετηρίας:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2975,6 +3079,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083633Z" creationid="epsou" creationdate="20250527T083633Z">
+        <seg>Φάκελος μεταφρασμένων αρχείων:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T074514Z" creationid="epsou" creationdate="20250527T074514Z">
@@ -2987,6 +3099,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T073011Z" creationid="epsou" creationdate="20250527T073011Z">
         <seg>Τελευταία τροποποίηση μετάφρασης από {0} στις {1} ώρα {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083553Z" creationid="epsou" creationdate="20250527T083553Z">
+        <seg>Φάκελος μεταφραστικών μνημών:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3173,6 +3293,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083531Z" creationid="epsou" creationdate="20250527T083531Z">
+        <seg>&amp;Χρήση τοπικών κανόνων τεμαχισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154612Z" creationid="epsou" creationdate="20250406T154612Z">
@@ -3205,6 +3333,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T075827Z" creationid="epsou" creationdate="20250527T075827Z">
         <seg>Λέξεις</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083620Z" creationid="epsou" creationdate="20250527T083620Z">
+        <seg>Φάκελος εγγράψιμου γλωσσαρίου:</seg>
       </tuv>
     </tu>
     <tu>
