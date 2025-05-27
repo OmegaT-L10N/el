@@ -2943,6 +2943,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083707Z" creationid="epsou" creationdate="20250527T083707Z">
+        <seg>TMX Level 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083708Z" creationid="epsou" creationdate="20250527T083708Z">
+        <seg>TMX Level 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071152Z" creationid="epsou" creationdate="20250527T071152Z">
@@ -3107,6 +3123,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T083553Z" creationid="epsou" creationdate="20250527T083553Z">
         <seg>Φάκελος μεταφραστικών μνημών:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083705Z" creationid="epsou" creationdate="20250527T083705Z">
+        <seg>Μεταφραστικές μνήμες προς εξαγωγή:</seg>
       </tuv>
     </tu>
     <tu>
