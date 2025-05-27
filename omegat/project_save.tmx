@@ -1126,6 +1126,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T070800Z" creationid="epsou" creationdate="20250527T070800Z">
+        <seg>Απέτυχε η καταχώρηση των πηγαίων αρχείων!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T070817Z" creationid="epsou" creationdate="20250527T070817Z">
+        <seg>Απέτυχε η καταχώρηση των πηγαίων αρχείων!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to copy files</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161340Z" creationid="epsou" creationdate="20250406T161340Z">
