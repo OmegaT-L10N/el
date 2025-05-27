@@ -970,6 +970,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075255Z" creationid="epsou" creationdate="20250527T075255Z">
+        <seg>Αδύνατον να προσπελαστεί ο φάκελος γλωσσαρίου!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075316Z" creationid="epsou" creationdate="20250527T075316Z">
+        <seg>Αδύνατον να δημιουργηθεί φάκελος για τα μεταφρασμένα αρχεία:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115920Z" creationid="epsou" creationdate="20250412T115920Z">
@@ -1034,6 +1050,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075050Z" creationid="epsou" creationdate="20250527T075035Z">
+        <seg>Ολοκληρώθηκε και οι τρέχουσες μεταφράσεις αποθηκεύτηκαν ως {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T155524Z" creationid="epsou" creationdate="20250406T155524Z">
@@ -1062,6 +1086,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161015Z" creationid="epsou" creationdate="20250406T161015Z">
         <seg>Αντιγραφή σφάλματος στο πρόχειρο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075229Z" creationid="epsou" creationdate="20250527T075229Z">
+        <seg>Ήταν αδύνατον να δημιουργηθεί φάκελος έργου στο {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1134,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161641Z" creationid="epsou" creationdate="20250406T161641Z">
         <seg>Δημιουργία έργου MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075123Z" creationid="epsou" creationdate="20250527T075123Z">
+        <seg>Δημιουργούνται τα μεταφρασμένα αρχεία: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1310,6 +1350,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075600Z" creationid="epsou" creationdate="20250527T075600Z">
+        <seg>Εκτελούνται εντολές μετεπεξεργασίας...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T071045Z" creationid="epsou" creationdate="20250527T070800Z">
@@ -1330,6 +1378,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161340Z" creationid="epsou" creationdate="20250406T161340Z">
         <seg>Τα αρχεία δεν αντιγράφηκαν</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075205Z" creationid="epsou" creationdate="20250527T075205Z">
+        <seg>Αδύνατον να δημιουργηθεί έργο!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1694,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075240Z" creationid="epsou" creationdate="20250527T075240Z">
+        <seg>Ανεπαρκή δικαιώματα για τον φάκελο έργου {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T072750Z" creationid="epsou" creationdate="20250527T072750Z">
@@ -1682,6 +1746,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T163041Z" creationid="epsou" creationdate="20250406T162940Z">
         <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074955Z" creationid="epsou" creationdate="20250527T074955Z">
+        <seg>Φορτώνουν τα αρχεία TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,6 +2038,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T074445Z" creationid="epsou" creationdate="20250527T074445Z">
         <seg>Άνοιγμα {0} αρχείων προορισμού</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075320Z" creationid="epsou" creationdate="20250527T075320Z">
+        <seg>Ορφανά τεμάχια</seg>
       </tuv>
     </tu>
     <tu>
@@ -2463,6 +2543,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075107Z" creationid="epsou" creationdate="20250527T075107Z">
+        <seg>Ξεκινήστε νέο έργο.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T121109Z" creationid="epsou" creationdate="20250412T121109Z">
@@ -2559,6 +2647,22 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075146Z" creationid="epsou" creationdate="20250527T075137Z">
+        <seg>Το μεταφρασμένο αρχείο δημιουργήθηκε</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075132Z" creationid="epsou" creationdate="20250527T075132Z">
+        <seg>Τα μεταφρασμένα αρχεία δημιουργήθηκαν</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T074514Z" creationid="epsou" creationdate="20250527T074514Z">
@@ -2587,6 +2691,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161259Z" creationid="epsou" creationdate="20250406T161259Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T075159Z" creationid="epsou" creationdate="20250527T075159Z">
+        <seg>Αδύνατον να δομηθεί νέο αρχείο TMX!</seg>
       </tuv>
     </tu>
     <tu>
