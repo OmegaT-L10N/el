@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074226Z" creationid="epsou" creationdate="20250527T074226Z">
+        <seg>Προσ&amp;θήκη αρχείων...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T161123Z" creationid="epsou" creationdate="20250406T155421Z">
@@ -1322,6 +1330,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T073307Z" creationid="epsou" creationdate="20250527T073307Z">
         <seg>Όνομα αρχείου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T074300Z" creationid="epsou" creationdate="20250527T074241Z">
+        <seg>&amp;Φιλτράρισμα</seg>
       </tuv>
     </tu>
     <tu>
