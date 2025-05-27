@@ -13,3 +13,4 @@ source folder	φάκελος αφετηρίας
 tag	ετικέτα
 source file	αρχείο αφετηρίας
 target file	αρχείο προορισμού
+Git	Git
