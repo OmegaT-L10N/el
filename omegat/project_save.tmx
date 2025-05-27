@@ -2326,6 +2326,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082908Z" creationid="epsou" creationdate="20250527T082908Z">
+        <seg>Υπόλοιπο χαρακτήρων (με κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082854Z" creationid="epsou" creationdate="20250527T082854Z">
+        <seg>Υπόλοιπο χαρακτήρων (χωρίς κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Segments</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T082124Z" creationid="epsou" creationdate="20250527T081613Z">
@@ -2360,8 +2376,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Repeated segments: {0}</seg>
       </tuv>
-      <tuv lang="el" changeid="epsou" changedate="20250527T071403Z" creationid="epsou" creationdate="20250527T071403Z">
-        <seg>Επανειλημμένα τεμάχια: {0}</seg>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083005Z" creationid="epsou" creationdate="20250527T071403Z">
+        <seg>Επαναλαμβανόμενα τεμάχια: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2775,10 +2791,34 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083044Z" creationid="epsou" creationdate="20250527T083044Z">
+        <seg>Σύνολο χαρακτήρων (με κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083024Z" creationid="epsou" creationdate="20250527T083024Z">
+        <seg>Σύνολο χαρακτήρων (χωρίς κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Segments</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T081430Z" creationid="epsou" creationdate="20250527T081430Z">
         <seg>Σύνολο τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083012Z" creationid="epsou" creationdate="20250527T083012Z">
+        <seg>Σύνολο λέξεων</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,6 +2903,30 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083037Z" creationid="epsou" creationdate="20250527T083037Z">
+        <seg>Μοναδικοί χαρακτήρες (χωρίς κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082913Z" creationid="epsou" creationdate="20250527T082913Z">
+        <seg>Υπόλοιπο μοναδικών χαρακτήρων (με κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082902Z" creationid="epsou" creationdate="20250527T082902Z">
+        <seg>Υπόλοιπο μοναδικών χαρακτήρων (χωρίς κενά)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Remaining Segments</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T082130Z" creationid="epsou" creationdate="20250527T082130Z">
@@ -2883,6 +2947,22 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T082118Z" creationid="epsou" creationdate="20250527T075938Z">
         <seg>Υπόλοιπο μοναδικών:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T082936Z" creationid="epsou" creationdate="20250527T082936Z">
+        <seg>Μοναδικά τεμάχια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T083017Z" creationid="epsou" creationdate="20250527T083017Z">
+        <seg>Μοναδικές λέξεις</seg>
       </tuv>
     </tu>
     <tu>
