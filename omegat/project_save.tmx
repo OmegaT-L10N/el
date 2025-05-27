@@ -1918,6 +1918,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T070428Z" creationid="epsou" creationdate="20250527T070428Z">
+        <seg>Αδύνατον να δημιουργηθούν τα μεταφρασμένα αρχεία διότι λείπουν ή έχουν καταστραφεί ετικέτες.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250321T113754Z" creationid="epsou" creationdate="20250321T113754Z">
@@ -1960,6 +1968,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T115834Z" creationid="epsou" creationdate="20250412T115834Z">
         <seg>&amp;Επιθετική χρήση εφεδρικής γραμματοσειράς</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T070716Z" creationid="epsou" creationdate="20250527T070716Z">
+        <seg>Πατήστε Εργαλεία &gt; Έλεγχος προβλημάτων... για να διορθώσετε τα προβλήματα ετικετών και δοκιμάστε ξανά.</seg>
       </tuv>
     </tu>
     <tu>
