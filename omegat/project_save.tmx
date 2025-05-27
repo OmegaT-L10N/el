@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072520Z" creationid="epsou" creationdate="20250527T072520Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 	  Source- or target-language tokenizer to use (overrides project
@@ -1270,6 +1278,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072620Z" creationid="epsou" creationdate="20250527T072620Z">
+        <seg>Αρχείο: μεταφρασμένα / σύνολο τεμαχίων (έργο: μεταφρασμένα μοναδικά / μοναδικά, σύνολο τεμαχίων)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072656Z" creationid="epsou" creationdate="20250527T072656Z">
+        <seg>Αρχείο: μεταφρασμένα μοναδικά % (μοναδικά ακόμη) / έργο: μεταφρασμένα μοναδικά % (μοναδικά ακόμη), σύνολο τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global &amp;Segmentation Rules...</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T120942Z" creationid="epsou" creationdate="20250412T120942Z">
@@ -1454,6 +1478,14 @@
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T162409Z" creationid="epsou" creationdate="20250406T162409Z">
         <seg>Εισαγωγή ετικέτας {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072750Z" creationid="epsou" creationdate="20250527T072750Z">
+        <seg>Οδηγείστε στο τεμάχιο που επεξεργαστήκατε τελευταίο...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2094,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072519Z" creationid="epsou" creationdate="20250527T072519Z">
+        <seg>Μήκος αφετηρίας/προορισμού (χαρακτήρες)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250412T121109Z" creationid="epsou" creationdate="20250412T121109Z">
@@ -2266,6 +2306,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T154613Z" creationid="epsou" creationdate="20250406T154613Z">
         <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072538Z" creationid="epsou" creationdate="20250527T072521Z">
+        <seg>{0} ({1} ακόμη) / {2} ({3} ακόμη), {4}</seg>
       </tuv>
     </tu>
     <tu>
