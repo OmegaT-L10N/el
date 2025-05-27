@@ -2292,6 +2292,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T072753Z" creationid="epsou" creationdate="20250527T072753Z">
+        <seg>τεμάχιο 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
