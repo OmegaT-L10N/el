@@ -1502,6 +1502,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T081424Z" creationid="epsou" creationdate="20250527T081424Z">
+        <seg>Όνομα αρχείου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T072620Z" creationid="epsou" creationdate="20250527T072620Z">
@@ -1690,6 +1698,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250406T160552Z" creationid="epsou" creationdate="20250406T160552Z">
         <seg>Αν το έργο περιέχει αρχεία αλλά δεν εμφανίζεται εδώ το περιεχόμενό τους:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T081420Z" creationid="epsou" creationdate="20250527T081420Z">
+        <seg>Στατιστικά μεμονωμένων αρχείων:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2326,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T081613Z" creationid="epsou" creationdate="20250527T081613Z">
+        <seg>Τεμάχια ακόμη</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining:</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T075855Z" creationid="epsou" creationdate="20250527T075855Z">
@@ -2743,6 +2767,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T081430Z" creationid="epsou" creationdate="20250527T081430Z">
+        <seg>Σύνολο τεμαχίων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total number of segments</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T074502Z" creationid="epsou" creationdate="20250527T074502Z">
@@ -2835,6 +2867,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="el" changeid="epsou" changedate="20250527T073416Z" creationid="epsou" creationdate="20250527T073416Z">
         <seg>Μοναδικά τεμάχια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="el" changeid="epsou" changedate="20250527T081242Z" creationid="epsou" creationdate="20250527T081242Z">
+        <seg>Μοναδικά:</seg>
       </tuv>
     </tu>
     <tu>
